@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>La Grande Frise</title>
+<meta name="description" content="L'histoire du monde, des premiers dinosaures à aujourd'hui, une leçon par jour.">
+<meta name="theme-color" content="#F4F6F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101412" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Frise">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <header class="bar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+      <span class="brand-name">La Grande Frise</span>
+    </div>
+    <div class="bar-meta">
+      <span class="pill num" id="streak" title="Jours d'affilée avec une leçon lue">Série : 0 j</span>
+      <button class="pill pill-btn" id="install-btn" type="button" hidden>Installer</button>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="Navigation">
+    <a href="#aujourdhui" data-view="aujourdhui"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16M4 12h10M4 19h13"/></svg><span>Aujourd'hui</span></a>
+    <a href="#frise" data-view="frise"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9h18v6H3zM8 9v6M13 9v6M17 9v6"/></svg><span>Frise</span></a>
+    <a href="#reviser" data-view="reviser"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h11v12H5zM8 4h11v12"/></svg><span>Réviser</span><b class="badge num" id="due-badge" hidden></b></a>
+    <a href="#journal" data-view="journal"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v16H6zM9 8h6M9 12h6M9 16h4"/></svg><span>Journal</span></a>
+  </nav>
+
+  <main class="views">
+    <!-- Aujourd'hui -->
+    <section class="view" id="view-aujourdhui" aria-labelledby="t-auj">
+      <h1 class="sr-only" id="t-auj">Leçon du jour</h1>
+      <div class="frise-box">
+        <div class="frise-scroll"><div class="frise" id="frise-compact"></div></div>
+      </div>
+      <article class="lesson" id="lesson" aria-live="polite">
+        <div class="empty"><p class="eyebrow">Chargement</p><h2>La frise se prépare…</h2></div>
+      </article>
+    </section>
+
+    <!-- Frise -->
+    <section class="view" id="view-frise" aria-labelledby="t-frise" hidden>
+      <div class="view-head">
+        <h1 id="t-frise">La frise</h1>
+        <p class="lede">Onze périodes, des dinosaures à aujourd'hui. Chaque période a la même largeur ; à l'intérieur, le temps est à l'échelle. Ma = millions d'années avant aujourd'hui.</p>
+      </div>
+      <div class="frise-box">
+        <div class="frise-scroll"><div class="frise" id="frise-full"></div></div>
+        <div class="frise-legend">
+          <span><i class="lg lg-done"></i>Explorée</span>
+          <span><i class="lg lg-current"></i>En cours</span>
+          <span><i class="lg lg-future"></i>À venir</span>
+        </div>
+      </div>
+      <div class="periods" id="periods"></div>
+    </section>
+
+    <!-- Réviser -->
+    <section class="view" id="view-reviser" aria-labelledby="t-rev" hidden>
+      <div class="view-head">
+        <h1 id="t-rev">Réviser</h1>
+        <p class="lede">Chaque leçon lue devient une carte. Une carte que tu connais passe dans la boîte suivante et revient de plus en plus tard ; une carte ratée repart dans la boîte 1.</p>
+      </div>
+      <div class="boxes" id="boxes"></div>
+      <div class="review" id="review"></div>
+    </section>
+
+    <!-- Journal -->
+    <section class="view" id="view-journal" aria-labelledby="t-jou" hidden>
+      <div class="view-head">
+        <h1 id="t-jou">Journal</h1>
+        <p class="lede" id="journal-lede">Toutes les leçons déjà apprises, de la plus récente à la plus ancienne.</p>
+      </div>
+      <label class="search">
+        <span class="sr-only">Chercher une leçon</span>
+        <input id="search" type="search" placeholder="Chercher : Pangée, ptérosaure…" autocomplete="off">
+      </label>
+      <div id="journal"></div>
+      <section class="about">
+        <h2>Installer l'appli</h2>
+        <p><strong>iPhone</strong> : ouvre cette page dans Safari, touche le bouton Partager puis « Sur l'écran d'accueil ».</p>
+        <p><strong>Android</strong> : dans Chrome, ouvre le menu ⋮ puis « Installer l'application » (ou « Ajouter à l'écran d'accueil »).</p>
+        <p class="muted">Ta progression (leçons lues, révisions) est enregistrée sur chaque appareil.</p>
+      </section>
+    </section>
+  </main>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

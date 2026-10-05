@@ -1,0 +1,137 @@
+{
+  "lessons": [
+    {
+      "day": 1,
+      "date": "2026-10-06",
+      "period": "trias",
+      "ago": 231000000,
+      "when": "Il y a environ 231 millions d'années",
+      "title": "Les premiers dinosaures",
+      "place": "Sur la Pangée, dans ce qui est aujourd'hui l'Argentine",
+      "body": [
+        "Tout commence par une catastrophe. Il y a 252 millions d'années, à la fin du Permien, d'immenses éruptions volcaniques en Sibérie dérèglent le climat de la planète. Plus de 8 espèces marines sur 10 disparaissent : c'est la plus grande extinction de l'histoire de la vie. Le Trias s'ouvre sur un monde presque vide, qui va peu à peu se repeupler.",
+        "À cette époque, tous les continents sont soudés en un seul : la Pangée. Le climat est chaud et l'intérieur des terres très sec. C'est dans ce décor qu'apparaissent, vers 230 millions d'années, les premiers dinosaures. Parmi les plus anciens bien connus, Eoraptor et Herrerasaurus ont été découverts en Argentine. Eoraptor mesurait à peine 1 mètre : un petit chasseur bipède et rapide, très loin des géants à venir.",
+        "Leur grand atout : des pattes placées droites sous le corps, comme des colonnes, et non écartées sur les côtés comme chez les lézards. Cette posture les rend rapides et endurants. Pourtant, au Trias, ils restent minoritaires : les animaux dominants sont alors des cousins des crocodiles. Les dinosaures ne prendront vraiment le pouvoir qu'après une nouvelle extinction, à la fin du Trias, il y a 201 millions d'années."
+      ],
+      "keep": "Les dinosaures apparaissent il y a environ 230 millions d'années, au Trias, sur un supercontinent unique, la Pangée. Ils sont d'abord petits, bipèdes et minoritaires.",
+      "fact": "Le mot « dinosaure » a été inventé en 1842 par le paléontologue britannique Richard Owen. Il vient du grec deinos (terrible) et sauros (lézard)… alors que les dinosaures ne sont pas des lézards.",
+      "q": "Qu'est-ce qui distingue le squelette d'un dinosaure de celui d'un lézard ?",
+      "a": "Ses pattes sont placées droites sous le corps (on parle de posture érigée). Chez le lézard, elles partent sur les côtés.",
+      "next": "La Pangée : à quoi ressemblait une planète avec un seul continent ?"
+    },
+    {
+      "day": 2,
+      "date": "2026-10-07",
+      "period": "trias",
+      "ago": 230000000,
+      "when": "Au Trias, il y a environ 230 millions d'années",
+      "title": "La Pangée, un seul continent",
+      "place": "La planète entière",
+      "body": [
+        "Imagine une carte du monde sans océan Atlantique. Au Trias, toutes les terres émergées forment un seul bloc gigantesque, en forme de C, qui s'étend presque d'un pôle à l'autre : la Pangée, du grec « toutes les terres ». Autour d'elle, un océan unique couvre le reste du globe, la Panthalassa. À l'est, une grande mer chaude, la Téthys, s'enfonce dans le continent.",
+        "Sur un continent aussi vaste, le centre est très loin de la mer et les pluies n'y arrivent presque pas : de grands déserts chauds l'occupent, avec des saisons très marquées. Il n'y a pas de calotte de glace aux pôles. Les animaux peuvent marcher d'un bout à l'autre du monde, ce qui explique qu'on retrouve aujourd'hui les mêmes espèces fossiles sur des continents séparés par des océans.",
+        "La Pangée ne durera pas. Vers la fin du Trias, elle commence à se déchirer. Les morceaux dérivent lentement, de quelques centimètres par an, à peu près la vitesse à laquelle poussent tes ongles. Il faudra encore 200 millions d'années pour obtenir la carte du monde que nous connaissons."
+      ],
+      "keep": "Au Trias, tous les continents forment un seul supercontinent, la Pangée, entouré d'un océan unique, la Panthalassa. Elle commence à se fracturer à la fin du Trias.",
+      "fact": "En 1912, le météorologue allemand Alfred Wegener a proposé que les continents avaient été réunis avant de s'éloigner. On s'est moqué de lui pendant des décennies : son idée n'a été acceptée que dans les années 1960, avec la découverte de la tectonique des plaques.",
+      "q": "Pourquoi retrouve-t-on des fossiles des mêmes animaux en Afrique et en Amérique du Sud ?",
+      "a": "Parce que ces continents étaient soudés dans la Pangée : les animaux passaient de l'un à l'autre à pied, avant que l'océan Atlantique ne s'ouvre.",
+      "next": "Les premiers mammifères : nos lointains ancêtres, grands comme une souris."
+    },
+    {
+      "day": 3,
+      "date": "2026-10-08",
+      "period": "trias",
+      "ago": 225000000,
+      "when": "Il y a environ 225 millions d'années",
+      "title": "Les premiers mammifères",
+      "place": "Un peu partout sur la Pangée",
+      "body": [
+        "En même temps que les premiers dinosaures, un autre groupe apparaît discrètement : les mammifères. Ils descendent des cynodontes, des animaux qui ressemblaient à des reptiles mais avaient déjà des traits de mammifères, comme des dents de formes variées. Les cynodontes faisaient partie des rares survivants de la grande extinction du Permien.",
+        "Les premiers mammifères, comme Morganucodon, ressemblent à des musaraignes : une dizaine de centimètres, un pelage, des dents faites pour croquer les insectes. Ils ont le sang chaud, et les femelles nourrissent probablement leurs petits avec du lait.",
+        "Pour échapper aux prédateurs et à la chaleur, ils vivent sans doute la nuit et développent l'ouïe, l'odorat et le toucher. Pendant plus de 150 millions d'années, ils resteront petits, dans l'ombre des dinosaures. Ce n'est qu'après la disparition de ces derniers qu'ils pourront prendre toute la place."
+      ],
+      "keep": "Les mammifères apparaissent à la fin du Trias, presque en même temps que les dinosaures. Ils restent petits et souvent nocturnes pendant toute l'ère des dinosaures.",
+      "fact": "Cette longue vie nocturne a laissé des traces : la plupart des mammifères ne distinguent que deux couleurs de base. Les singes de l'Ancien Monde, dont nous faisons partie, ont « regagné » une troisième couleur bien plus tard, ce qui nous permet de voir le rouge.",
+      "q": "De quel groupe d'animaux descendent les mammifères ?",
+      "a": "Des cynodontes, des animaux à l'allure de reptiles qui avaient déjà des traits de mammifères et avaient survécu à l'extinction du Permien.",
+      "next": "Les ptérosaures : les premiers vertébrés à conquérir le ciel."
+    },
+    {
+      "day": 4,
+      "date": "2026-10-09",
+      "period": "trias",
+      "ago": 220000000,
+      "when": "Il y a environ 220 millions d'années",
+      "title": "Les ptérosaures prennent leur envol",
+      "place": "Les rivages de la Téthys, dans l'actuelle Italie",
+      "body": [
+        "Jusqu'ici, seuls les insectes savaient voler. À la fin du Trias, des reptiles se lancent à leur tour dans les airs : les ptérosaures. Ce sont les premiers vertébrés (animaux à colonne vertébrale) capables d'un vrai vol battu, bien avant les oiseaux et les chauves-souris.",
+        "Leur aile est une membrane de peau tendue entre le corps et un seul doigt, le quatrième, devenu immensément long. L'un des plus anciens connus, Eudimorphodon, a été trouvé près de Bergame, en Italie : environ 1 mètre d'envergure, une longue queue et des dents pour attraper des poissons.",
+        "Attention à un piège classique : les ptérosaures ne sont pas des dinosaures. Ce sont leurs proches cousins, issus des mêmes ancêtres. Ils voleront au-dessus des dinosaures pendant toute leur histoire et disparaîtront avec eux, il y a 66 millions d'années."
+      ],
+      "keep": "Les ptérosaures, apparus au Trias, sont les premiers vertébrés à voler. Leur aile est une membrane tendue sur le quatrième doigt. Ce sont des cousins des dinosaures, pas des dinosaures.",
+      "fact": "Au Crétacé, certains ptérosaures comme Quetzalcoatlus atteindront environ 10 mètres d'envergure, autant qu'un petit avion de tourisme. Ce sont les plus grands animaux volants de tous les temps.",
+      "q": "Sur quel doigt était tendue l'aile d'un ptérosaure ?",
+      "a": "Sur le quatrième doigt, devenu extrêmement long.",
+      "next": "Les ichtyosaures : des reptiles marins qui ressemblaient à des dauphins."
+    },
+    {
+      "day": 5,
+      "date": "2026-10-10",
+      "period": "trias",
+      "ago": 216000000,
+      "when": "Tout au long du Trias (252 – 201 Ma)",
+      "title": "Les ichtyosaures, maîtres des océans",
+      "place": "La Panthalassa et la Téthys, les océans du monde",
+      "body": [
+        "Pendant que les dinosaures s'installent sur terre, la mer a ses propres géants : les ichtyosaures, ou « poissons-lézards ». Ce sont des reptiles dont les ancêtres vivaient sur terre et sont retournés dans l'eau. Apparus au tout début du Trias, ils colonisent vite tous les océans.",
+        "Leur corps fuselé, leur nageoire sur le dos et leur queue en croissant les font ressembler à des dauphins ou à des requins. Pourtant, ils n'ont aucun lien de parenté avec eux : c'est une convergence évolutive. Quand des animaux différents vivent dans le même milieu, l'évolution aboutit souvent à des formes semblables.",
+        "Comme les dauphins, les ichtyosaures respirent de l'air et doivent remonter à la surface. Ils ne pondent pas d'œufs : les femelles donnent naissance à des petits vivants, directement dans l'eau. À la fin du Trias, certains deviennent énormes : Shonisaurus, découvert dans le Nevada, aux États-Unis, mesurait environ 15 mètres."
+      ],
+      "keep": "Les ichtyosaures sont des reptiles marins du Trias, à l'allure de dauphins. Ils respirent de l'air et donnent naissance à des petits vivants. Ce ne sont ni des poissons ni des dinosaures.",
+      "fact": "On a retrouvé des fossiles de femelles ichtyosaures avec des petits encore dans le ventre, et même, en Chine, un fossile figé en plein accouchement.",
+      "q": "Les ichtyosaures étaient-ils des poissons ?",
+      "a": "Non. C'étaient des reptiles qui respiraient de l'air, de la même façon que les dauphins sont des mammifères et non des poissons.",
+      "next": "Plateosaurus : l'un des premiers grands dinosaures herbivores."
+    },
+    {
+      "day": 6,
+      "date": "2026-10-11",
+      "period": "trias",
+      "ago": 212000000,
+      "when": "Il y a environ 212 millions d'années",
+      "title": "Plateosaurus, un premier géant",
+      "place": "Les plaines de l'actuelle Europe (Allemagne, Suisse)",
+      "body": [
+        "Une vingtaine de millions d'années après les premiers dinosaures, certains ont beaucoup grandi. Plateosaurus est l'un des premiers grands dinosaures herbivores : jusqu'à environ 8 mètres de long, et plus d'une tonne pour les plus gros.",
+        "Il a un long cou, une petite tête et des dents en forme de feuille pour arracher la végétation. Il appartient aux sauropodomorphes, le groupe qui donnera plus tard les géants du Jurassique comme le Diplodocus et le Brachiosaure.",
+        "Longtemps, on l'a dessiné à quatre pattes. On sait aujourd'hui qu'il marchait sur ses deux pattes arrière : ses mains ne pouvaient pas se poser à plat, paumes vers le sol. Elles lui servaient plutôt à attraper des branches. On a découvert des dizaines de squelettes, notamment à Trossingen en Allemagne et à Frick en Suisse."
+      ],
+      "keep": "Plateosaurus, à la fin du Trias, est l'un des premiers grands dinosaures herbivores. Il marchait sur deux pattes et appartient au groupe qui donnera les sauropodes géants.",
+      "fact": "On a trouvé tant de squelettes de Plateosaurus que les scientifiques ont pu étudier sa croissance : ils ont découvert que tous les individus ne grandissaient pas au même rythme, un peu comme les reptiles actuels.",
+      "q": "Pourquoi pense-t-on que Plateosaurus ne marchait pas à quatre pattes ?",
+      "a": "Parce que ses mains ne pouvaient pas se tourner paumes vers le sol : il ne pouvait pas s'appuyer dessus pour marcher.",
+      "next": "La fin du Trias : une nouvelle extinction qui laisse le champ libre aux dinosaures."
+    },
+    {
+      "day": 7,
+      "date": "2026-10-12",
+      "period": "trias",
+      "ago": 201500000,
+      "when": "Il y a 201 millions d'années",
+      "title": "L'extinction de la fin du Trias",
+      "place": "Le cœur de la Pangée, entre l'Amérique et l'Afrique",
+      "body": [
+        "Il y a 201 millions d'années, la Pangée commence à se déchirer entre l'Amérique du Nord et l'Afrique. Par les fissures, d'énormes volumes de lave s'échappent pendant des centaines de milliers d'années. Les gaz rejetés, surtout le dioxyde de carbone, réchauffent brutalement le climat et rendent les océans plus acides.",
+        "C'est l'une des cinq grandes extinctions de l'histoire de la Terre : environ trois quarts des espèces disparaissent. Les grands cousins des crocodiles, qui dominaient la terre ferme, sont presque tous rayés de la carte. Seule une petite branche survit, celle qui mènera aux crocodiles actuels.",
+        "Les dinosaures, eux, traversent la crise et en sortent gagnants. Débarrassés de leurs concurrents, ils vont se diversifier et occuper tous les milieux. Le Trias se termine : l'ère des grands dinosaures peut vraiment commencer."
+      ],
+      "keep": "Il y a 201 millions d'années, d'immenses éruptions volcaniques liées à la fracture de la Pangée provoquent une extinction massive. Les dinosaures y survivent et dominent désormais la planète.",
+      "fact": "On retrouve aujourd'hui les laves de ces éruptions sur quatre continents : Amérique du Nord, Amérique du Sud, Afrique (au Maroc par exemple) et Europe. C'est une preuve de plus que ces terres étaient réunies à l'époque.",
+      "q": "Quel groupe d'animaux profite le plus de l'extinction de la fin du Trias ?",
+      "a": "Les dinosaures : leurs grands concurrents, les cousins des crocodiles, disparaissent presque tous.",
+      "next": "Le Jurassique commence : la Pangée se divise et les dinosaures deviennent des géants."
+    }
+  ]
+}

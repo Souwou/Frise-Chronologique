@@ -1,0 +1,32 @@
+{
+  "eras": [
+    { "id": "meso", "name": "Mésozoïque · l'ère des dinosaures" },
+    { "id": "ceno", "name": "Cénozoïque · l'ère des mammifères" },
+    { "id": "pre",  "name": "Préhistoire humaine" },
+    { "id": "hist", "name": "Histoire · depuis l'écriture" }
+  ],
+  "periods": [
+    { "id": "trias", "name": "Trias", "range": "252 – 201 Ma", "start": 252000000, "end": 201000000, "color": "#812B92", "ink": "#FFFFFF", "era": "meso",
+      "blurb": "Après la plus grande extinction de l'histoire, la vie se reconstruit sur un supercontinent unique, la Pangée. Les premiers dinosaures et les premiers mammifères apparaissent." },
+    { "id": "jurassique", "name": "Jurassique", "range": "201 – 145 Ma", "start": 201000000, "end": 145000000, "color": "#34B2C9", "ink": "#0E1A1D", "era": "meso",
+      "blurb": "La Pangée se fracture et l'Atlantique commence à s'ouvrir. Les dinosaures dominent la planète, des sauropodes géants aux premiers oiseaux." },
+    { "id": "cretace", "name": "Crétacé", "range": "145 – 66 Ma", "start": 145000000, "end": 66000000, "color": "#7FC64E", "ink": "#13200B", "era": "meso",
+      "blurb": "Les plantes à fleurs apparaissent, T. rex et Triceratops règnent. La période se termine par la chute d'un astéroïde." },
+    { "id": "paleogene", "name": "Paléogène", "range": "66 – 23 Ma", "start": 66000000, "end": 23000000, "color": "#FD9A52", "ink": "#2A1404", "era": "ceno",
+      "blurb": "Libérés des grands dinosaures, les mammifères se diversifient : premiers primates, premières baleines, premiers chevaux." },
+    { "id": "neogene", "name": "Néogène", "range": "23 – 2,6 Ma", "start": 23000000, "end": 2580000, "color": "#FFE619", "ink": "#2A2600", "era": "ceno",
+      "blurb": "Le climat se refroidit et les prairies s'étendent. En Afrique, la lignée humaine se sépare de celle des chimpanzés." },
+    { "id": "paleolithique", "name": "Paléolithique", "range": "2,6 Ma → −10 000", "start": 2580000, "end": 12026, "color": "#A8432B", "ink": "#FFFFFF", "era": "pre",
+      "blurb": "Le genre Homo apparaît et maîtrise le feu. Homo sapiens se répand sur toute la planète et peint les parois des grottes." },
+    { "id": "neolithique", "name": "Néolithique", "range": "−10 000 → −3300", "start": 12026, "end": 5326, "color": "#6F7F2E", "ink": "#FFFFFF", "era": "pre",
+      "blurb": "Les humains inventent l'agriculture et l'élevage, se sédentarisent et bâtissent les premiers villages." },
+    { "id": "antiquite", "name": "Antiquité", "range": "−3300 → 476", "start": 5326, "end": 1550, "color": "#2D4E9E", "ink": "#FFFFFF", "era": "hist",
+      "blurb": "Avec l'écriture naissent les premières civilisations : Mésopotamie, Égypte, Chine, Grèce, Rome, jusqu'à la chute de l'Empire romain d'Occident." },
+    { "id": "moyenage", "name": "Moyen Âge", "range": "476 → 1492", "start": 1550, "end": 534, "color": "#8E1F3A", "ink": "#FFFFFF", "era": "hist",
+      "blurb": "Mille ans de royaumes, de châteaux et de cathédrales, de Byzance au monde musulman, jusqu'au voyage de Christophe Colomb." },
+    { "id": "modernes", "name": "Temps modernes", "range": "1492 → 1789", "start": 534, "end": 237, "color": "#1D7466", "ink": "#FFFFFF", "era": "hist",
+      "blurb": "Grandes découvertes, imprimerie, Renaissance, monarchies absolues et Lumières, jusqu'à la Révolution française." },
+    { "id": "contemporaine", "name": "Époque contemporaine", "range": "1789 → aujourd'hui", "start": 237, "end": 0, "color": "#C43D6E", "ink": "#FFFFFF", "era": "hist",
+      "blurb": "Révolution industrielle, guerres mondiales, décolonisation, conquête spatiale et numérique : le monde jusqu'à aujourd'hui." }
+  ]
+}
