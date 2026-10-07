@@ -132,6 +132,101 @@
       "q": "Quel groupe d'animaux profite le plus de l'extinction de la fin du Trias ?",
       "a": "Les dinosaures : leurs grands concurrents, les cousins des crocodiles, disparaissent presque tous.",
       "next": "Le Jurassique commence : la Pangée se divise et les dinosaures deviennent des géants."
+    },
+    {
+      "day": 8,
+      "date": "2026-10-13",
+      "period": "jurassique",
+      "ago": 199000000,
+      "when": "Il y a environ 200 millions d'années",
+      "title": "Le Jurassique commence",
+      "place": "Toute la planète, de l'actuelle côte est des États-Unis aux massifs du Jura",
+      "body": [
+        "Il y a environ 201 millions d'années, juste après l'extinction de la fin du Trias, s'ouvre une nouvelle période : le Jurassique. Elle va durer plus de 55 millions d'années. Son nom vient du massif du Jura, entre la France et la Suisse. Ses falaises de calcaire se sont formées à cette époque, au fond d'une mer chaude et peu profonde. Elles sont pleines de coquillages fossiles, comme les ammonites, ces cousines des pieuvres enroulées dans une coquille en spirale.",
+        "Pendant le Jurassique, le supercontinent unique, la Pangée, se déchire pour de bon. Au nord se forme la Laurasie, qui deviendra l'Amérique du Nord, l'Europe et l'Asie. Au sud, le Gondwana regroupe l'Amérique du Sud, l'Afrique, l'Inde, l'Antarctique et l'Australie. Entre les deux, l'océan Atlantique central commence à s'ouvrir, d'abord comme un long fossé envahi par la mer. Le niveau des océans monte, et une grande partie de l'Europe, dont la France, se retrouve sous l'eau ou découpée en îles.",
+        "Le climat est chaud et humide, sans glace aux pôles. Des forêts de conifères, de fougères, de cycas et de ginkgos couvrent les terres jusqu'aux hautes latitudes. Il n'y a ni herbe ni fleurs : elles n'apparaîtront que bien plus tard. Dans ce monde verdoyant, les dinosaures, sortis vainqueurs de la crise du Trias, se diversifient. Certains herbivores deviennent des géants, et de nouveaux prédateurs apparaissent pour les chasser. C'est le début de leur âge d'or."
+      ],
+      "keep": "Le Jurassique commence il y a environ 201 millions d'années. La Pangée se sépare en deux blocs, la Laurasie au nord et le Gondwana au sud, l'Atlantique commence à s'ouvrir et les dinosaures prennent le dessus.",
+      "fact": "L'Atlantique né au Jurassique continue de s'élargir aujourd'hui, de quelques centimètres par an, à peu près à la vitesse à laquelle poussent tes ongles.",
+      "q": "D'où vient le nom « Jurassique » ?",
+      "a": "Du massif du Jura, entre la France et la Suisse, dont les calcaires se sont formés au fond de la mer à cette époque.",
+      "next": "Mary Anning, une jeune chasseuse de fossiles anglaise, découvre les reptiles marins du Jurassique."
+    },
+    {
+      "day": 9,
+      "date": "2026-10-14",
+      "period": "jurassique",
+      "ago": 196000000,
+      "when": "Il y a environ 195 millions d'années",
+      "title": "Mary Anning et les monstres marins",
+      "place": "Lyme Regis, sur la côte du Dorset, dans le sud de l'Angleterre",
+      "body": [
+        "Au début du Jurassique, la mer recouvre le sud de l'Angleterre. Dans ses eaux chaudes nagent des reptiles étonnants. Les ichtyosaures ont la forme d'un dauphin : un corps fuselé, un long museau plein de dents, des nageoires et une queue verticale. Ils ne pondent pas d'œufs, ils donnent naissance à des petits vivants dans l'eau. Les plésiosaures, eux, ont un petit corps large, quatre grandes nageoires en forme de pagaie et, souvent, un cou très long. Ce ne sont pas des dinosaures, mais des reptiles marins.",
+        "Leurs squelettes sont restés pris dans les couches de vase durcie qui forment aujourd'hui les falaises de Lyme Regis. Au début du XIXe siècle, une famille pauvre de ce village vit de la vente de « curiosités » aux touristes. Vers 1811, Joseph Anning trouve un crâne étrange. Peu après, sa sœur Mary, alors âgée d'environ 12 ans, dégage le reste du squelette : un ichtyosaure de plus de 5 mètres. La découverte fait sensation à Londres.",
+        "Mary Anning passe sa vie à fouiller les falaises, souvent en hiver, quand les tempêtes font tomber des blocs. En 1823, elle découvre le premier squelette complet de plésiosaure. Son cou est si long que le grand savant français Georges Cuvier soupçonne d'abord une supercherie, avant de reconnaître son erreur. Elle trouve aussi un reptile volant, un ptérosaure, en 1828. Pourtant, parce qu'elle est une femme et sans fortune, la Société géologique de Londres ne l'accepte jamais parmi ses membres. Elle meurt en 1847."
+      ],
+      "keep": "Au début du Jurassique, les mers abritent des ichtyosaures et des plésiosaures, des reptiles marins qui ne sont pas des dinosaures. Mary Anning, à Lyme Regis, en a découvert certains des premiers squelettes.",
+      "fact": "On dit souvent que le virelangue anglais « She sells seashells on the seashore » (« elle vend des coquillages au bord de la mer ») a été inspiré par Mary Anning, même si le lien n'a jamais été prouvé.",
+      "q": "Pourquoi Georges Cuvier a-t-il d'abord douté du plésiosaure découvert par Mary Anning ?",
+      "a": "Parce que son cou était si long qu'il a cru à une supercherie, avant de reconnaître qu'il se trompait.",
+      "next": "Dilophosaurus, le dinosaure à double crête, bien différent de celui du film Jurassic Park."
+    },
+    {
+      "day": 10,
+      "date": "2026-10-15",
+      "period": "jurassique",
+      "ago": 190000000,
+      "when": "Il y a environ 190 millions d'années",
+      "title": "Dilophosaurus, le vrai et le faux",
+      "place": "Le nord de l'Arizona, aux États-Unis, sur les terres de la nation navajo",
+      "body": [
+        "Au début du Jurassique, l'actuel nord de l'Arizona est une région de rivières et de plaines, bordée de dunes de sable. Le plus grand prédateur du coin s'appelle Dilophosaurus. Il mesure environ 7 mètres de long et pèse autour de 400 kilos. Il marche sur ses pattes arrière, comme tous les dinosaures carnivores, et possède de longues mains griffues. Sur sa tête se dressent deux fines crêtes osseuses parallèles, qui lui donnent son nom : « lézard à deux crêtes ».",
+        "Ses premiers ossements sont repérés en 1942 par Jesse Williams, un Navajo, qui guide jusqu'au site une équipe de l'université de Berkeley, en Californie. Les fossiles sont abîmés et les crêtes manquent. En 1954, le paléontologue Samuel Welles le prend donc pour une espèce de Megalosaurus. En 1964, il revient sur place et trouve un squelette dont la tête porte bien deux crêtes. En 1970, il lui donne enfin son propre nom : Dilophosaurus.",
+        "Pour beaucoup de gens, ce dinosaure, c'est celui du film Jurassic Park, sorti en 1993 : un animal pas plus grand qu'un homme, avec une collerette autour du cou et qui crache du venin. Tout cela est inventé pour le film. Aucun fossile ne montre de collerette ni de glande à venin, et le vrai Dilophosaurus était bien plus grand. Une étude de 2020 a montré aussi que ses mâchoires étaient solides : c'était un vrai chasseur. Ses crêtes, trop fragiles pour se battre, servaient sans doute à se faire remarquer."
+      ],
+      "keep": "Dilophosaurus, un carnivore d'environ 7 mètres, vivait il y a environ 190 millions d'années en Amérique du Nord. Ses deux crêtes servaient sans doute à la parade, mais la collerette et le venin du film Jurassic Park sont inventés.",
+      "fact": "Dilophosaurus est le dinosaure officiel de l'État du Connecticut, aux États-Unis, depuis 1985. Pourtant, on n'y a jamais trouvé ses os : seulement des milliers d'empreintes de pas laissées par un carnivore de sa taille, qui lui ressemblait sans doute.",
+      "q": "Qu'est-ce qui est inventé dans le Dilophosaurus du film Jurassic Park ?",
+      "a": "Sa petite taille, la collerette autour du cou et le venin qu'il crache : aucun fossile ne montre ces éléments.",
+      "next": "Megalosaurus, le tout premier dinosaure à avoir reçu un nom scientifique."
+    },
+    {
+      "day": 11,
+      "date": "2026-10-16",
+      "period": "jurassique",
+      "ago": 166000000,
+      "when": "Il y a environ 166 millions d'années",
+      "title": "Megalosaurus, le premier dinosaure nommé",
+      "place": "Stonesfield, près d'Oxford, en Angleterre",
+      "body": [
+        "Au milieu du Jurassique, le sud de l'Angleterre est un archipel d'îles basses au bord d'une mer chaude. Sur ces terres vit Megalosaurus, un carnivore d'environ 6 mètres de long et de 700 kilos. Comme Dilophosaurus, il marche sur deux pattes, avec une grosse tête et des dents en lame de couteau, recourbées et dentelées comme une scie. Ses restes ont été retrouvés dans des couches de calcaire près du village de Stonesfield, dans l'Oxfordshire, où l'on extrayait des pierres plates pour couvrir les toits.",
+        "Un morceau de son fémur est dessiné dès 1677 par le naturaliste Robert Plot, qui y voit l'os d'un géant humain. Il faut attendre le XIXe siècle pour comprendre. En 1824, le géologue d'Oxford William Buckland décrit une mâchoire et quelques os et les attribue à un énorme lézard disparu, qu'il nomme Megalosaurus, « grand lézard ». C'est le premier dinosaure à recevoir un nom scientifique, avant même que le mot « dinosaure » existe.",
+        "Ce mot est inventé en 1842 par le savant britannique Richard Owen, à partir du grec : « lézard terrible ». En 1854, à Londres, le sculpteur Benjamin Waterhouse Hawkins représente Megalosaurus en statue grandeur nature dans le parc du Crystal Palace. On l'imagine alors à quatre pattes, lourd comme un éléphant. Ces statues sont toujours visibles aujourd'hui. Grâce à des squelettes plus complets, on sait depuis qu'il marchait sur deux pattes, comme tous les grands carnivores du groupe des théropodes."
+      ],
+      "keep": "Megalosaurus, un carnivore du milieu du Jurassique trouvé près d'Oxford, est le premier dinosaure nommé, en 1824. Le mot « dinosaure » n'apparaît qu'en 1842.",
+      "fact": "En 1852, Charles Dickens ouvre son roman « La Maison d'Âpre-Vent » en imaginant un Megalosaurus d'une douzaine de mètres se dandinant dans les rues boueuses de Londres. C'est l'un des premiers dinosaures de la littérature.",
+      "q": "Qui a donné son nom à Megalosaurus, et en quelle année ?",
+      "a": "Le géologue William Buckland, de l'université d'Oxford, en 1824.",
+      "next": "Les mammifères du Jurassique : petits, discrets, mais déjà étonnants."
+    },
+    {
+      "day": 12,
+      "date": "2026-10-17",
+      "period": "jurassique",
+      "ago": 164000000,
+      "when": "Il y a environ 164 millions d'années",
+      "title": "Castorocauda, le castor du Jurassique",
+      "place": "Daohugou, en Mongolie-Intérieure, dans le nord de la Chine",
+      "body": [
+        "Les mammifères sont apparus à la fin du Trias, presque en même temps que les dinosaures. Pendant toute l'ère des dinosaures, la plupart restent petits, de la taille d'une musaraigne ou d'une souris. Ils sortent surtout la nuit et se nourrissent d'insectes. Leurs fossiles sont rares et souvent réduits à quelques dents. Pendant longtemps, les savants les ont donc imaginés comme de petits animaux tous semblables, cachés dans l'ombre des géants.",
+        "Au milieu du Jurassique, le nord de la Chine est couvert de forêts, de lacs et de volcans. Les cendres volcaniques, très fines, ont parfois enseveli les animaux en préservant même leurs poils et leurs plumes. En 2006, des chercheurs y décrivent Castorocauda, un mammifère d'environ 42 centimètres de long et de 500 à 800 grammes, plus gros que la plupart de ses contemporains. Son nom signifie « queue de castor ». On voit encore sur le fossile sa fourrure épaisse, avec une sous-couche de poils.",
+        "Castorocauda a une queue plate couverte d'écailles, comme celle d'un castor, et des pattes faites pour nager et creuser. Ses dents ressemblent à celles des phoques : il chassait sans doute des poissons et d'autres petits animaux aquatiques, comme une loutre. Il appartient pourtant à un groupe éteint, sans lien direct avec les castors actuels. Au même endroit, on a trouvé un petit mammifère planeur. Ces découvertes montrent que, dès le Jurassique, les mammifères avaient déjà essayé plusieurs modes de vie : nager, creuser, planer."
+      ],
+      "keep": "Au Jurassique, les mammifères sont surtout petits et discrets. Mais des fossiles de Chine, comme Castorocauda, un nageur à queue de castor, montrent qu'ils occupaient déjà des modes de vie variés.",
+      "fact": "Le fossile de Castorocauda est si bien conservé qu'on distingue les deux types de poils de sa fourrure : de longs poils de garde et un duvet serré, comme chez les loutres d'aujourd'hui.",
+      "q": "Pourquoi Castorocauda porte-t-il ce nom ?",
+      "a": "Parce qu'il avait une queue plate et écailleuse comme celle d'un castor ; son nom signifie « queue de castor ».",
+      "next": "Les dinosaures à plumes : comment les savants ont retrouvé les vraies couleurs d'Anchiornis."
     }
   ]
 }
