@@ -227,6 +227,63 @@
       "q": "Pourquoi Castorocauda porte-t-il ce nom ?",
       "a": "Parce qu'il avait une queue plate et écailleuse comme celle d'un castor ; son nom signifie « queue de castor ».",
       "next": "Les dinosaures à plumes : comment les savants ont retrouvé les vraies couleurs d'Anchiornis."
+    },
+    {
+      "day": 13,
+      "date": "2026-10-18",
+      "period": "jurassique",
+      "ago": 160000000,
+      "when": "Il y a environ 160 millions d'années",
+      "title": "Anchiornis, un dinosaure en couleurs",
+      "place": "Près de Jianchang, dans la province du Liaoning, au nord-est de la Chine",
+      "body": [
+        "Pendant plus d'un siècle, on a dessiné les dinosaures comme de gros lézards à la peau grise ou verte. Personne ne savait de quelle couleur ils étaient vraiment : la couleur ne se fossilise pas, pensait-on. Puis, à la fin des années 1990, des fossiles extraordinaires sortent des anciens lacs du nord-est de la Chine. On y voit des petits dinosaures carnivores couverts de plumes. Les savants comprennent alors que les oiseaux sont les descendants directs de certains dinosaures.",
+        "En 2009, des paléontologues chinois décrivent Anchiornis, dont le nom signifie « presque oiseau ». Il vivait il y a environ 160 millions d'années, soit une dizaine de millions d'années avant Archaeopteryx, le plus célèbre des premiers oiseaux. Il mesurait environ 35 centimètres et pesait à peine plus de 100 grammes, comme un petit pigeon. Ses bras, mais aussi ses jambes, portaient de longues plumes : on dit qu'il avait quatre ailes. Il ne volait sans doute pas bien, mais pouvait peut-être planer.",
+        "En 2008, le chercheur danois Jakob Vinther avait montré que les plumes fossiles gardent de minuscules grains de pigment, les mélanosomes. Leur forme trahit la couleur : allongés pour le noir et le gris, arrondis pour le roux. En 2010, une équipe examine au microscope électronique des dizaines d'échantillons prélevés sur tout le corps d'Anchiornis. Le résultat paraît dans la revue Science : un corps gris foncé, une crête rousse sur la tête et des ailes blanches aux pointes noires. Pour la première fois, on reconstituait les couleurs d'un dinosaure entier."
+      ],
+      "keep": "Anchiornis, petit dinosaure à plumes de Chine, est le premier dinosaure dont on a reconstitué toutes les couleurs, en 2010, grâce aux grains de pigment conservés dans ses plumes fossiles.",
+      "fact": "Anchiornis est l'un des dinosaures les mieux connus au monde : on en a trouvé plus de 200 squelettes. En 2017, en éclairant certains fossiles au laser, des chercheurs ont même vu la silhouette de ses chairs : il avait des cuisses en forme de pilon, comme un poulet.",
+      "q": "Comment les savants ont-ils retrouvé les couleurs d'Anchiornis ?",
+      "a": "En observant au microscope les mélanosomes, des grains de pigment conservés dans ses plumes fossiles : leur forme indique la couleur (allongés pour le noir et le gris, ronds pour le roux).",
+      "next": "Diplodocus et les sauropodes géants de l'Ouest américain : comment des animaux aussi grands ont-ils pu exister ?"
+    },
+    {
+      "day": 14,
+      "date": "2026-10-19",
+      "period": "jurassique",
+      "ago": 154000000,
+      "when": "Il y a environ 154 millions d'années",
+      "title": "Diplodocus, le géant au long cou",
+      "place": "La formation de Morrison, dans l'ouest des États-Unis (Wyoming, Colorado, Utah)",
+      "body": [
+        "À la fin du Jurassique, l'ouest de l'Amérique du Nord est une vaste plaine traversée de rivières, avec une saison sèche et une saison humide. Les roches déposées à cette époque forment aujourd'hui la formation de Morrison, qui s'étend du Nouveau-Mexique jusqu'au Montana. C'est l'un des plus riches cimetières de dinosaures du monde. Au XIXe siècle, deux paléontologues rivaux, Othniel Marsh et Edward Cope, s'y livrent une véritable « guerre des os » pour nommer le plus d'espèces possible.",
+        "En 1878, Marsh nomme Diplodocus, « double poutre », à cause d'os en forme de patin sous sa queue. C'est un sauropode, un herbivore à quatre pattes au cou et à la queue immenses. Il mesurait environ 25 mètres de long, la longueur de deux autobus, mais pesait sans doute 10 à 15 tonnes seulement, à peine plus que deux éléphants. Sa queue, très fine au bout, pouvait servir de fouet. Ses dents, en forme de crayon, étaient remplacées environ tous les 35 jours, tant elles s'usaient vite.",
+        "Comment devenir aussi grand ? Les sauropodes ne mâchaient pas : ils arrachaient les feuilles et les avalaient d'un coup, ce qui permettait une tête minuscule au bout d'un long cou. Leurs vertèbres étaient creusées de poches d'air, reliées aux poumons comme chez les oiseaux : un squelette géant mais léger. En 1899, un Diplodocus presque complet est trouvé dans le Wyoming. Le milliardaire Andrew Carnegie en fait faire des moulages qu'il offre à plusieurs pays : l'un d'eux trône à Paris depuis 1908."
+      ],
+      "keep": "Diplodocus, sauropode de la fin du Jurassique, mesurait environ 25 mètres. Les sauropodes ont pu devenir si grands grâce à leur long cou, à leur petite tête qui ne mâchait pas et à des os allégés par des poches d'air.",
+      "fact": "Le moulage de Diplodocus offert par Andrew Carnegie est toujours exposé à la Galerie de paléontologie du Muséum national d'histoire naturelle, à Paris, où il a été inauguré en 1908.",
+      "q": "Pourquoi les vertèbres de Diplodocus étaient-elles légères malgré sa taille ?",
+      "a": "Parce qu'elles étaient creusées de poches d'air reliées aux poumons, comme chez les oiseaux.",
+      "next": "Stegosaurus, le dinosaure aux plaques sur le dos et aux pointes au bout de la queue."
+    },
+    {
+      "day": 15,
+      "date": "2026-10-20",
+      "period": "jurassique",
+      "ago": 152000000,
+      "when": "Il y a environ 152 millions d'années",
+      "title": "Stegosaurus, le dos hérissé de plaques",
+      "place": "La formation de Morrison, dans l'ouest des États-Unis (Colorado, Wyoming)",
+      "body": [
+        "Dans les mêmes plaines que Diplodocus vit un tout autre herbivore. Stegosaurus mesure jusqu'à environ 9 mètres de long et pèse plusieurs tonnes, comme un gros éléphant. Ses pattes avant sont bien plus courtes que ses pattes arrière : son dos forme une bosse et sa petite tête reste près du sol, où il broute les fougères et les plantes basses. Le long de son dos se dressent deux rangées de grandes plaques osseuses, disposées en quinconce, la plus haute dépassant 60 centimètres.",
+        "Othniel Marsh le nomme en 1877 : Stegosaurus signifie « lézard à toit », car il croyait que les plaques étaient posées à plat sur le dos, comme des tuiles. On sait aujourd'hui qu'elles étaient dressées et plantées dans la peau, sans être attachées au squelette. À quoi servaient-elles ? Les spécialistes hésitent encore : se faire reconnaître, impressionner les rivaux, peut-être réguler la chaleur du corps. Elles étaient trop fragiles pour servir d'armure. Son cerveau, lui, était minuscule : on le compare souvent à une noix.",
+        "Son arme est ailleurs : au bout de la queue, quatre pointes osseuses longues de 60 centimètres ou plus. On a trouvé une vertèbre d'Allosaurus, le grand carnivore de l'époque, percée d'un trou qui correspond exactement à l'une de ces pointes. Le squelette de Stegosaurus le plus complet, surnommé Sophie, a été découvert en 2003 dans le Wyoming. Il est exposé depuis 2014 au Musée d'histoire naturelle de Londres : un jeune adulte d'environ 5,6 mètres, complet à plus de 80 %."
+      ],
+      "keep": "Stegosaurus, herbivore de la fin du Jurassique, portait deux rangées de plaques sur le dos, dont le rôle reste discuté, et quatre pointes au bout de la queue pour se défendre contre des carnivores comme Allosaurus.",
+      "fact": "Stegosaurus a disparu plus de 80 millions d'années avant l'apparition de Tyrannosaurus : il s'est écoulé plus de temps entre ces deux dinosaures qu'entre T. rex et nous.",
+      "q": "Pourquoi Marsh a-t-il appelé ce dinosaure Stegosaurus, « lézard à toit » ?",
+      "a": "Parce qu'il pensait que ses plaques étaient posées à plat sur son dos, comme les tuiles d'un toit.",
+      "next": "Archaeopteryx : le fossile mi-dinosaure mi-oiseau découvert en Allemagne en 1861."
     }
   ]
 }
