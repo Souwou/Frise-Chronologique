@@ -284,6 +284,82 @@
       "q": "Pourquoi Marsh a-t-il appelé ce dinosaure Stegosaurus, « lézard à toit » ?",
       "a": "Parce qu'il pensait que ses plaques étaient posées à plat sur son dos, comme les tuiles d'un toit.",
       "next": "Archaeopteryx : le fossile mi-dinosaure mi-oiseau découvert en Allemagne en 1861."
+    },
+    {
+      "day": 16,
+      "date": "2026-10-21",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Archaeopteryx, mi-dinosaure mi-oiseau",
+      "place": "Solnhofen, en Bavière, dans le sud de l'Allemagne",
+      "body": [
+        "À la fin du Jurassique, le sud de l'Allemagne est un chapelet d'îles au bord d'une mer chaude. Entre ces îles s'étendent des lagunes calmes, au fond pauvre en oxygène. Les animaux qui y tombent s'enfoncent dans une vase calcaire très fine, sans être dévorés. Cette vase est devenue le calcaire de Solnhofen, une pierre si lisse qu'on l'utilise depuis la fin du XVIIIe siècle pour imprimer des dessins : c'est la lithographie. En taillant ces plaques, les carriers trouvent parfois des fossiles d'une finesse incroyable.",
+        "En 1861, un ouvrier y découvre l'empreinte d'une plume isolée, longue d'environ 6 centimètres. Le paléontologue Hermann von Meyer nomme son propriétaire Archaeopteryx, « aile ancienne ». Peu après apparaît un squelette presque complet. Un médecin de la région, Karl Häberlein, l'aurait reçu en paiement de ses soins ; en 1862, il le vend au British Museum de Londres avec toute sa collection, pour environ 700 livres. Le moment est idéal : deux ans plus tôt, en 1859, Charles Darwin a publié « L'Origine des espèces » et l'on cherche des formes de passage entre groupes d'animaux.",
+        "Archaeopteryx a la taille d'un corbeau. Comme un oiseau, il porte de vraies plumes et des ailes. Mais comme un petit dinosaure carnivore, il a des dents pointues, trois doigts griffus au bout de chaque aile et une longue queue osseuse. Un second squelette, trouvé dans les années 1870 et acheté pour Berlin, montre même sa tête et ses dents. On en connaît aujourd'hui une douzaine de squelettes, tous venus de la même région. Volait-il vraiment ? Sans doute un peu, sur de courtes distances, mais les spécialistes en discutent encore."
+      ],
+      "keep": "Archaeopteryx, découvert en 1861 dans le calcaire de Solnhofen, en Allemagne, mêle des traits d'oiseau (plumes, ailes) et de dinosaure (dents, griffes, longue queue osseuse). Il est devenu le symbole du lien entre dinosaures et oiseaux.",
+      "fact": "Pendant longtemps, une plaque de calcaire de Solnhofen servait à imprimer des affiches et des cartes : la pierre qui a conservé Archaeopteryx a donné son nom à l'espèce, Archaeopteryx lithographica.",
+      "q": "Quels traits de dinosaure et quels traits d'oiseau Archaeopteryx réunit-il ?",
+      "a": "Comme un oiseau, il a des plumes et des ailes ; comme un dinosaure carnivore, il a des dents, des doigts griffus aux ailes et une longue queue osseuse.",
+      "next": "Allosaurus, le grand prédateur de la fin du Jurassique, et le mystérieux cimetière de l'Utah."
+    },
+    {
+      "day": 17,
+      "date": "2026-10-22",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Allosaurus, le chasseur du Jurassique",
+      "place": "La formation de Morrison, dans l'ouest des États-Unis (Utah, Wyoming, Colorado)",
+      "body": [
+        "Revenons dans les plaines de l'Ouest américain, où broutent Diplodocus et Stegosaurus. Le prédateur le plus courant y est Allosaurus. Il mesure en moyenne environ 8,5 mètres de long et pèse autour de 2 tonnes, les plus grands approchant 10 mètres. Il marche sur deux pattes puissantes ; ses bras assez longs se terminent par trois doigts armés de griffes recourbées. Au-dessus de ses yeux, deux petites cornes osseuses. Othniel Marsh le nomme en 1877 : Allosaurus signifie « lézard différent », à cause de la forme particulière de ses vertèbres.",
+        "Comment chassait-il ? Une étude publiée en 2001 suggère que sa morsure était plutôt faible pour sa taille, mais que son crâne était très solide. Il frappait peut-être la gueule grande ouverte, comme on donne un coup de hachette, puis arrachait la chair avec ses dents en lame de scie. Ses proies se défendaient : on a vu, il y a deux jours, la vertèbre d'Allosaurus percée par une pointe de Stegosaurus. En 1991, près de Shell, dans le Wyoming, on dégage un squelette complet à environ 95 %, surnommé Big Al. Dix-neuf de ses os portent des fractures ou des infections.",
+        "Le plus étonnant se trouve dans l'Utah, à la carrière de Cleveland-Lloyd. On y a sorti plus de 12 000 os, appartenant à au moins 74 animaux. Or plus des trois quarts de ces os viennent de carnivores, avec au moins 46 Allosaurus. D'habitude, c'est l'inverse : les herbivores sont bien plus nombreux que leurs prédateurs. Piège de boue, point d'eau asséché, crue soudaine ? Personne ne sait encore pourquoi tant de chasseurs ont fini au même endroit. Le site est devenu en 2019 le monument national du Jurassique."
+      ],
+      "keep": "Allosaurus, long d'environ 8,5 mètres, était le grand carnivore le plus courant de la fin du Jurassique en Amérique du Nord. La carrière de Cleveland-Lloyd, dans l'Utah, en a livré au moins 46, une énigme encore non résolue.",
+      "fact": "Allosaurus est le fossile officiel de l'État de l'Utah depuis 1988. Des squelettes sortis de la carrière de Cleveland-Lloyd ont été envoyés dans de nombreux musées à travers le monde.",
+      "q": "Qu'a-t-on d'inhabituel trouvé à la carrière de Cleveland-Lloyd, dans l'Utah ?",
+      "a": "Plus de 12 000 os dont plus des trois quarts viennent de carnivores, avec au moins 46 Allosaurus, alors que d'habitude les herbivores sont bien plus nombreux.",
+      "next": "Pliosaurus, le monstre marin dont le crâne a été extrait d'une falaise anglaise en 2022."
+    },
+    {
+      "day": 18,
+      "date": "2026-10-23",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Le crâne du monstre de Kimmeridge",
+      "place": "Les falaises de Kimmeridge, dans le Dorset, sur la côte sud de l'Angleterre",
+      "body": [
+        "À la fin du Jurassique, le sud de l'Angleterre est sous la mer. Au fond se dépose une argile sombre, riche en restes d'animaux : l'argile de Kimmeridge, qui forme aujourd'hui des falaises au bord de la Manche. Dans ces eaux règnent les pliosaures, des cousins des plésiosaures découverts par Mary Anning. Mais au lieu d'un long cou et d'une petite tête, ils ont un cou court et une tête énorme. Avec leurs quatre nageoires en forme de pagaie, certains Pliosaurus dépassaient 10 mètres de long.",
+        "Au printemps 2022, un chasseur de fossiles amateur, Phil Jacobs, ramasse sur la plage de Kimmeridge le bout d'un museau fossile. Il prévient Steve Etches, un collectionneur de la région qui fouille ces falaises depuis des décennies. D'où vient ce morceau ? Un drone survole la falaise et repère le reste du crâne, pris dans la roche à environ 15 mètres de hauteur. À l'été, l'équipe travaille suspendue à des cordes pendant environ trois semaines pour le dégager. Le nettoyage et la restauration prennent ensuite une dizaine de mois.",
+        "Le résultat est spectaculaire : un crâne de près de 2 mètres de long, intact à environ 95 %, les mâchoires encore refermées. Il porte 130 dents, longues et pointues, faites pour percer et trancher. C'est le crâne de Pliosaurus le plus complet jamais trouvé. Ce prédateur pouvait sans doute attraper des ichtyosaures, des plésiosaures et même d'autres pliosaures. La découverte est présentée au public au début de 2024, dans un documentaire de David Attenborough, et le crâne est exposé au musée Etches, à Kimmeridge."
+      ],
+      "keep": "Les pliosaures, reptiles marins au cou court et à la tête énorme, étaient les super-prédateurs des mers de la fin du Jurassique. Un crâne de près de 2 mètres, presque complet, a été extrait d'une falaise du Dorset en 2022.",
+      "fact": "Steve Etches, qui a réuni l'une des plus belles collections de fossiles du Jurassique anglais, était plombier de métier : il a passé des décennies à fouiller les falaises de Kimmeridge pendant son temps libre.",
+      "q": "Comment l'équipe a-t-elle retrouvé l'endroit où se trouvait le reste du crâne de Pliosaurus ?",
+      "a": "En faisant voler un drone le long de la falaise, qui a repéré le crâne pris dans la roche à environ 15 mètres de hauteur.",
+      "next": "Les géants de Tendaguru, en Tanzanie, et le plus haut squelette de dinosaure monté au monde."
+    },
+    {
+      "day": 19,
+      "date": "2026-10-24",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Les géants de Tendaguru",
+      "place": "La colline de Tendaguru, près de Lindi, dans le sud-est de la Tanzanie",
+      "body": [
+        "Vers 1907, dans ce qui est alors l'Afrique orientale allemande, un travailleur africain signale au responsable d'une mine des os gigantesques sortant du sol, au pied de la colline de Tendaguru. Le paléontologue allemand Eberhard Fraas vient voir et confirme : ce sont des os de dinosaures. À la fin du Jurassique, cette région était une plaine côtière au climat chaud, avec une saison sèche, parcourue par des troupeaux d'herbivores géants et leurs prédateurs, assez semblables à ceux de l'Ouest américain à la même époque.",
+        "De 1909 à 1913, le musée de Berlin organise une immense fouille, dirigée sur le terrain par Werner Janensch et Edwin Hennig. Jusqu'à 500 ouvriers africains creusent, souvent accompagnés de leurs familles. Les os, emballés sur place, sont portés à pied sur environ 60 kilomètres jusqu'au port de Lindi. Au total, environ 225 tonnes de fossiles partent pour Berlin dans quelque 800 caisses. Aujourd'hui, la Tanzanie rappelle que ces fossiles ont été emportés à l'époque coloniale, et la question de leur place fait débat.",
+        "La star de Tendaguru est un sauropode longtemps appelé Brachiosaurus brancai, renommé Giraffatitan, « titan girafe ». Contrairement à Diplodocus, ses pattes avant sont plus longues que ses pattes arrière, et son cou se dresse vers le ciel : il pouvait brouter à plus de 12 mètres de hauteur. Il mesurait environ 22 mètres de long et pesait sans doute plusieurs dizaines de tonnes. Monté pour la première fois en 1937 au musée d'histoire naturelle de Berlin, son squelette s'élève à 13,27 mètres : c'est le plus haut squelette de dinosaure monté au monde."
+      ],
+      "keep": "Entre 1909 et 1913, une expédition allemande a extrait environ 225 tonnes de fossiles du site de Tendaguru, en Tanzanie. Le squelette de Giraffatitan, haut de 13,27 mètres, est exposé à Berlin.",
+      "fact": "Le squelette de Giraffatitan exposé à Berlin n'est pas celui d'un seul animal : il a été reconstitué à partir des os de plusieurs individus, complétés par des pièces moulées.",
+      "q": "Qu'est-ce qui distingue la silhouette de Giraffatitan de celle de Diplodocus ?",
+      "a": "Ses pattes avant sont plus longues que ses pattes arrière et son cou se dresse vers le haut, comme une girafe, ce qui lui permettait de brouter à plus de 12 mètres de hauteur.",
+      "next": "Les ammonites, ces coquillages en spirale qui servent d'horloge aux géologues."
     }
   ]
 }
