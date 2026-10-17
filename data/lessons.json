@@ -360,6 +360,63 @@
       "q": "Qu'est-ce qui distingue la silhouette de Giraffatitan de celle de Diplodocus ?",
       "a": "Ses pattes avant sont plus longues que ses pattes arrière et son cou se dresse vers le haut, comme une girafe, ce qui lui permettait de brouter à plus de 12 mètres de hauteur.",
       "next": "Les ammonites, ces coquillages en spirale qui servent d'horloge aux géologues."
+    },
+    {
+      "day": 20,
+      "date": "2026-10-25",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a entre environ 200 et 145 millions d'années",
+      "title": "Les ammonites, horloges des géologues",
+      "place": "Les mers du monde entier ; on en trouve par exemple à Digne-les-Bains, dans les Alpes-de-Haute-Provence",
+      "body": [
+        "Imagine un calmar enfermé dans une coquille enroulée en spirale : c'est à peu près une ammonite. Ces mollusques, cousins des pieuvres, des calmars et du nautile actuel, pullulent dans les mers du Jurassique. Leur coquille est divisée en loges successives ; l'animal vit dans la dernière, la plus grande, et règle sa flottaison en remplissant les autres de gaz ou de liquide. La plupart mesurent quelques centimètres, mais certaines espèces du Crétacé dépasseront 1,5 mètre de diamètre. Leur nom vient d'Amon, dieu égyptien représenté avec des cornes de bélier enroulées.",
+        "Pendant des siècles, on ne sait pas ce que sont ces pierres en spirale. À Whitby, dans le nord de l'Angleterre, une légende raconte que sainte Hilda aurait changé des serpents en pierre, et des marchands sculptaient même une tête de serpent sur les ammonites pour les vendre. Au début du XIXe siècle, l'Anglais William Smith remarque que chaque couche de roche contient ses propres fossiles. En 1815, il publie l'une des toutes premières cartes géologiques d'un pays entier, couvrant l'Angleterre, le pays de Galles et une partie de l'Écosse.",
+        "Pourquoi parler d'horloge ? Parce que les espèces d'ammonites changent très vite : beaucoup ne durent que quelques centaines de milliers d'années, puis sont remplacées. Trouver telle espèce dans une roche, c'est donc savoir précisément à quel moment du Jurassique elle s'est formée, partout dans le monde. Les géologues ont ainsi découpé le Jurassique en dizaines de « zones à ammonites ». Le Français Alcide d'Orbigny a nommé plusieurs de ses étages d'après des lieux : le Bajocien d'après Bayeux, le Toarcien d'après Thouars, et même l'Oxfordien d'après Oxford, en Angleterre."
+      ],
+      "keep": "Les ammonites sont des mollusques à coquille spiralée, cousins des calmars. Comme leurs espèces changeaient vite, elles permettent de dater précisément les roches du Jurassique.",
+      "fact": "À Digne-les-Bains, une dalle rocheuse inclinée, vieille de près de 200 millions d'années, porte plus de 1 500 ammonites visibles à l'œil nu : c'est la célèbre « dalle aux ammonites ».",
+      "q": "Pourquoi les ammonites servent-elles d'« horloge » aux géologues ?",
+      "a": "Parce que leurs espèces se succédaient rapidement : chacune ne vivait qu'une courte période, si bien que trouver une espèce dans une roche indique précisément son âge.",
+      "next": "Pterodactylus, le premier reptile volant jamais décrit, que les savants ont d'abord pris pour un animal marin."
+    },
+    {
+      "day": 21,
+      "date": "2026-10-26",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Pterodactylus, le doigt-aile",
+      "place": "Les lagunes de Solnhofen et d'Eichstätt, en Bavière (Allemagne)",
+      "body": [
+        "À la fin du Jurassique, le sud de l'Allemagne est un archipel tropical bordé de lagunes chaudes et salées. Au fond, l'eau est si pauvre en oxygène que presque rien ne décompose les cadavres. La boue fine qui les recouvre deviendra le calcaire de Solnhofen, une pierre si lisse qu'on l'utilisera plus tard pour l'imprimerie. C'est dans ces plaques, déjà célèbres pour Archaeopteryx, qu'on a trouvé un petit reptile volant aux ailes repliées : Pterodactylus, dont les plus grands spécimens atteignaient environ un mètre d'envergure.",
+        "En 1784, Cosimo Alessandro Collini, conservateur du cabinet de curiosités du prince électeur à Mannheim, décrit ce squelette étrange. Il ne sait pas quoi en penser et suppose qu'il s'agit d'un animal marin, qui se servait de ses longs bras comme de nageoires. En 1801, le naturaliste français Georges Cuvier, travaillant à partir du dessin de Collini, comprend que c'est un reptile volant. En 1809, il le baptise « ptéro-dactyle », c'est-à-dire « doigt-aile ». Le fossile original est aujourd'hui conservé à Munich.",
+        "Pourquoi « doigt-aile » ? Chez les ptérosaures, l'aile est une membrane de peau tendue par un seul doigt, le quatrième, démesurément allongé, et reliée aux pattes arrière. Les trois autres doigts, munis de griffes, restent libres. Pterodactylus avait une queue courte, un long bec garni de petites dents fines, et chassait sans doute des petits poissons et des invertébrés. Attention : les ptérosaures ne sont pas des dinosaures, mais leurs proches cousins. Et le mot « ptérodactyle », utilisé pour tous les reptiles volants, désigne en réalité un seul genre."
+      ],
+      "keep": "Décrit en 1784 et nommé par Cuvier en 1809, Pterodactylus est le premier reptile volant connu de la science. Son aile était tendue par un quatrième doigt très allongé.",
+      "fact": "En 1812, l'anatomiste allemand Samuel Thomas von Sömmerring soutenait que Pterodactylus était une sorte de chauve-souris, donc un mammifère. Le débat a duré des années.",
+      "q": "Que signifie le nom « ptérodactyle » et pourquoi l'a-t-on choisi ?",
+      "a": "Il signifie « doigt-aile », car l'aile des ptérosaures est une membrane tendue par un seul doigt, le quatrième, extrêmement allongé.",
+      "next": "Les forêts du Jurassique : des conifères, des ginkgos et des fougères, mais pas une seule fleur ni un brin d'herbe."
+    },
+    {
+      "day": 22,
+      "date": "2026-10-27",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Un monde sans fleurs",
+      "place": "Partout sur les continents ; par exemple la forêt pétrifiée de Cerro Cuadrado, en Patagonie (Argentine)",
+      "body": [
+        "Si tu pouvais te promener dans une forêt du Jurassique, quelque chose te frapperait vite : tout est vert ou brun. Il n'y a aucune fleur, aucun fruit sucré, et pas d'herbe non plus : les plantes à fleurs n'apparaîtront clairement qu'au Crétacé, et les graminées bien plus tard encore. Le climat est chaud, il n'y a probablement pas de grandes calottes glaciaires aux pôles, et l'air contient plusieurs fois plus de dioxyde de carbone qu'aujourd'hui. Des forêts poussent jusqu'à des latitudes très proches des pôles.",
+        "Les arbres dominants sont des conifères, notamment des parents des araucarias, ces « désespoirs des singes » aux branches en écailles piquantes. En dessous poussent des ginkgos, des cycas en forme de palmiers trapus, des fougères et des prêles. En Patagonie, à Cerro Cuadrado, une éruption volcanique a enseveli une forêt d'araucarias il y a environ 160 millions d'années. On y trouve des troncs changés en pierre et des cônes si bien conservés qu'en les coupant, on voit encore les graines à l'intérieur.",
+        "C'est cette végétation coriace que broutent les sauropodes. Diplodocus ou Giraffatitan avalent sans mâcher des quantités énormes d'aiguilles, de feuilles de fougères et de prêles, que leur gigantesque système digestif fermente lentement. Certaines de ces plantes ont traversé les âges presque sans changer. Le ginkgo, dont les feuilles en éventail ressemblent beaucoup à celles des fossiles jurassiques, pousse aujourd'hui dans nos villes. Il ne reste qu'une seule espèce, Ginkgo biloba, sauvée en grande partie grâce à sa culture en Chine, autour des temples."
+      ],
+      "keep": "Au Jurassique, les forêts sont faites de conifères, de ginkgos, de cycas, de fougères et de prêles. Il n'existe encore ni fleurs ni herbe.",
+      "fact": "En 1994, un garde forestier australien, David Noble, a découvert dans un canyon près de Sydney un arbre que l'on croyait connu seulement par des fossiles : le pin de Wollemi, de la famille des araucarias. Il en reste moins de 100 adultes à l'état sauvage.",
+      "q": "Quels grands types de plantes trouvait-on dans une forêt du Jurassique, et lesquels manquaient ?",
+      "a": "On y trouvait des conifères (comme des parents des araucarias), des ginkgos, des cycas, des fougères et des prêles. Il n'y avait ni plantes à fleurs ni herbe.",
+      "next": "Les crocodiles marins du Jurassique, comme Metriorhynchus, qui avaient troqué leurs pattes contre des nageoires."
     }
   ]
 }
