@@ -417,6 +417,82 @@
       "q": "Quels grands types de plantes trouvait-on dans une forêt du Jurassique, et lesquels manquaient ?",
       "a": "On y trouvait des conifères (comme des parents des araucarias), des ginkgos, des cycas, des fougères et des prêles. Il n'y avait ni plantes à fleurs ni herbe.",
       "next": "Les crocodiles marins du Jurassique, comme Metriorhynchus, qui avaient troqué leurs pattes contre des nageoires."
+    },
+    {
+      "day": 23,
+      "date": "2026-10-28",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Entre environ 165 et 145 millions d'années",
+      "title": "Les crocodiles qui ont pris la mer",
+      "place": "Les mers peu profondes qui couvrent alors l'Europe : argiles d'Oxford (Angleterre), falaises des Vaches Noires (Normandie), calcaires de Bavière (Allemagne)",
+      "body": [
+        "Au Jurassique, une grande partie de l'Europe est sous une mer chaude et peu profonde, parsemée d'îles. Dans ces eaux nage un animal étrange : Metriorhynchus, un parent lointain des crocodiles, long d'environ 3 à 4 mètres. Ses ancêtres vivaient sur les côtes, comme les crocodiles actuels. Mais sa famille, celle des métriorhynchidés, a fait un choix radical : quitter presque complètement la terre ferme. On retrouve ses os dans les argiles d'Oxford, en Angleterre, et au pied des falaises des Vaches Noires, près de Villers-sur-Mer, en Normandie.",
+        "Pour vivre au large, son corps s'est transformé. Il a perdu la cuirasse de plaques osseuses qui protège le dos des crocodiles, trop lourde pour un nageur. Ses pattes sont devenues de petites nageoires. Le bout de sa queue se courbe vers le bas et porte une nageoire en forme de croissant, comme chez les ichthyosaures : des fossiles allemands ont même gardé le contour de cette nageoire. Enfin, des glandes à sel près des yeux lui permettent d'évacuer le sel de l'eau de mer qu'il avale avec ses proies, poissons et calmars.",
+        "Les métriorhynchidés se diversifient à la fin du Jurassique. Certains, au museau fin, chassent les petits poissons. D'autres sont de vrais prédateurs de gros gibier. En Argentine, on a décrit en 2005 Dakosaurus andiniensis, au crâne court et massif armé de dents dentelées : les chercheurs l'ont surnommé « Godzilla ». Comme ces animaux ne pouvaient sans doute plus ramper sur une plage, de nombreux spécialistes pensent qu'ils donnaient naissance à des petits vivants, en pleine mer, plutôt que de pondre des œufs. Cela reste toutefois une hypothèse, faute de fossile de femelle gestante."
+      ],
+      "keep": "Au Jurassique, une famille de parents des crocodiles, les métriorhynchidés, s'est adaptée à la haute mer : plus de cuirasse, des pattes en nageoires, une queue à nageoire et des glandes à sel.",
+      "fact": "Le savais-tu ? Les glandes à sel des métriorhynchidés ont été repérées grâce à des crânes argentins de Cricosaurus, où elles ont laissé leur empreinte dans l'os. Les tortues marines et les iguanes marins des Galápagos utilisent encore aujourd'hui des glandes de ce genre.",
+      "q": "Quelles transformations ont permis à Metriorhynchus de vivre en pleine mer ?",
+      "a": "Il a perdu sa cuirasse osseuse, ses pattes sont devenues des nageoires, sa queue portait une nageoire courbée vers le bas, et il avait des glandes à sel pour rejeter le sel de l'eau de mer.",
+      "next": "Le lagon de Solnhofen, en Bavière : une eau si salée et pauvre en oxygène qu'elle a conservé les animaux dans leurs moindres détails."
+    },
+    {
+      "day": 24,
+      "date": "2026-10-29",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Le lagon de Solnhofen",
+      "place": "Solnhofen et Eichstätt, dans l'Altmühltal, en Bavière (Allemagne)",
+      "body": [
+        "Il y a environ 150 millions d'années, le sud de l'Allemagne est une mer tropicale bordée de récifs d'éponges et de coraux, avec des îles basses à l'horizon. Derrière ces récifs s'étendent des lagons presque fermés. Sous un soleil brûlant, l'eau s'évapore, devient très salée, et le fond manque d'oxygène. Aucun ver, aucun crabe ne peut y vivre pour fouiller la vase. Un animal qui tombe dans ce piège meurt vite, et son corps reste intact au fond, recouvert peu à peu d'une boue de calcaire très fine.",
+        "Cette boue est devenue une pierre en fines plaques, si lisse et régulière qu'elle a eu un destin inattendu. En 1796, à Munich, Alois Senefelder invente la lithographie, une technique d'imprimerie qui consiste à dessiner sur une pierre. La meilleure pierre pour cela vient justement des carrières de Solnhofen. Pendant tout le XIXe siècle, les carriers fendent des milliers de plaques, et en les ouvrant, ils découvrent des fossiles d'une finesse incroyable : libellules aux ailes nervurées, méduses, poissons, ptérosaures avec la membrane de leurs ailes.",
+        "C'est dans ces carrières qu'a été trouvé Archaeopteryx, en 1861. Mais Solnhofen conserve aussi des scènes. En 2012, deux chercheurs, Dean Lomax et Christopher Racay, ont décrit une piste longue de 9,7 mètres laissée sur le fond par une jeune limule, un animal proche des araignées encore vivant aujourd'hui. Projetée dans l'eau empoisonnée du lagon, elle a marché en titubant, puis s'est arrêtée, et son corps est resté au bout de ses dernières traces. Les paléontologues appellent ce genre de fossile une « piste de mort »."
+      ],
+      "keep": "À Solnhofen, des lagons très salés et sans oxygène ont conservé les animaux dans leurs moindres détails. Leur calcaire en plaques a servi à inventer la lithographie.",
+      "fact": "Le savais-tu ? La pierre de Solnhofen sert encore aujourd'hui à certains artistes lithographes, et les carrières de la région sont toujours exploitées pour des dallages. Les fossiles qu'on y trouve continuent d'alimenter les musées, comme le Jura-Museum d'Eichstätt.",
+      "q": "Pourquoi les fossiles de Solnhofen sont-ils si bien conservés ?",
+      "a": "Parce que l'eau des lagons était très salée et pauvre en oxygène : aucun animal ne vivait au fond pour décomposer les corps, qui étaient recouverts d'une boue de calcaire très fine.",
+      "next": "Compsognathus, un petit dinosaure de Solnhofen pas plus gros qu'une dinde, mort avec un lézard dans l'estomac."
+    },
+    {
+      "day": 25,
+      "date": "2026-10-30",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années",
+      "title": "Compsognathus, le dinosaure miniature",
+      "place": "Les îles de l'archipel de Solnhofen (Bavière, Allemagne) et le plateau de Canjuers (Var, France)",
+      "body": [
+        "Quand on pense aux dinosaures, on imagine des géants. Pourtant, l'un des tout premiers squelettes complets de dinosaure carnivore est celui d'un animal minuscule. Vers la fin des années 1850, un médecin collectionneur de Bavière, Joseph Oberndorfer, se procure une plaque de calcaire de la région de Solnhofen. Elle contient un petit squelette recroquevillé, la tête rejetée en arrière. Le paléontologue Johann Andreas Wagner le décrit en 1859 sous le nom de Compsognathus, « la mâchoire élégante ». L'animal mesure à peine 70 centimètres de long, dont plus de la moitié pour la queue.",
+        "Compsognathus est un chasseur léger, perché sur deux longues pattes fines, avec un cou souple et une petite tête pleine de dents pointues. Il vit sur les îles sèches qui bordent les lagons, couvertes de buissons. On sait ce qu'il mangeait : dans la cage thoracique du squelette allemand se trouve le squelette d'un petit lézard rapide, Bavarisaurus. Le prédateur l'avait avalé entier, ce qui montre qu'il était assez vif pour attraper ce genre de proie. Il pesait sans doute moins de 3 ou 4 kilos.",
+        "Un second squelette a été découvert en 1971 sur le plateau de Canjuers, dans le Var. Plus grand, environ 1,2 mètre, il a d'abord été considéré comme une autre espèce. Les études récentes y voient plutôt un adulte de la même espèce, le spécimen allemand étant un jeune. Pendant plus d'un siècle, Compsognathus a été le plus petit dinosaure connu. Dès 1868, le naturaliste anglais Thomas Huxley avait remarqué à quel point ses pattes ressemblaient à celles des oiseaux. Il en avait conclu que dinosaures et oiseaux devaient être apparentés."
+      ],
+      "keep": "Compsognathus, petit dinosaure carnivore de 70 centimètres à environ 1,2 mètre, vivait sur les îles de l'archipel de Solnhofen. Un de ses fossiles contient encore le lézard qu'il avait avalé.",
+      "fact": "Le savais-tu ? Le second squelette, celui du Var, a été trouvé sur un terrain militaire : le plateau de Canjuers est le plus grand camp d'entraînement de l'armée de terre en Europe de l'Ouest.",
+      "q": "Comment sait-on ce que mangeait Compsognathus ?",
+      "a": "Parce que le squelette trouvé en Bavière contient, à l'emplacement de l'estomac, le squelette d'un petit lézard, Bavarisaurus, qu'il avait avalé entier.",
+      "next": "La « guerre des os » : deux paléontologues américains, Cope et Marsh, se disputent à coups de dynamite les dinosaures jurassiques de l'Ouest américain."
+    },
+    {
+      "day": 26,
+      "date": "2026-10-31",
+      "period": "jurassique",
+      "ago": 150000000,
+      "when": "Il y a environ 150 millions d'années (fouilles de 1877 aux années 1890)",
+      "title": "La guerre des os",
+      "place": "La formation de Morrison : Morrison (Colorado) et Como Bluff (Wyoming), aux États-Unis",
+      "body": [
+        "Il y a environ 150 millions d'années, l'ouest des États-Unis actuels est une vaste plaine traversée de rivières, où vivent Diplodocus, Stegosaurus et Allosaurus. Leurs os, enfouis dans les couches qu'on appelle la formation de Morrison, ressortent au XIXe siècle. En 1877, un instituteur, Arthur Lakes, trouve des os gigantesques près de la petite ville de Morrison, au Colorado. Il en envoie à deux savants à la fois : Othniel Charles Marsh, de l'université Yale, et Edward Drinker Cope, de Philadelphie. Ce double envoi met le feu aux poudres d'une rivalité déjà ancienne.",
+        "Les deux hommes se détestent depuis la fin des années 1860. Cope avait notamment publié la reconstitution d'un reptile marin, Elasmosaurus, avec la tête au bout de la queue, et l'erreur avait été relevée publiquement. Dans l'Ouest, leurs équipes s'espionnent, débauchent les ouvriers de l'autre et vont jusqu'à dynamiter des gisements pour que le rival ne puisse pas les fouiller. À Como Bluff, dans le Wyoming, deux employés du chemin de fer, William Reed et William Carlin, découvrent un cimetière de dinosaures et travaillent d'abord pour Marsh.",
+        "Pressés de devancer l'autre, Cope et Marsh publient à toute vitesse. Selon le décompte habituel, ils décrivent à eux deux environ 140 espèces de dinosaures, dont beaucoup sont des doublons. Marsh nomme ainsi Apatosaurus en 1877, puis Brontosaurus en 1879. Mais ils font aussi connaître au monde Stegosaurus, Allosaurus, Diplodocus ou Camarasaurus. Quand la querelle éclate dans les journaux en 1890, elle les ruine tous les deux. Cope meurt en 1897, Marsh en 1899, presque sans le sou. Leurs collections remplissent pourtant encore les musées américains."
+      ],
+      "keep": "À partir de 1877, Cope et Marsh se livrent une guerre acharnée pour les fossiles de l'Ouest américain. Elle fait découvrir de nombreux dinosaures du Jurassique, comme Stegosaurus, Allosaurus et Diplodocus.",
+      "fact": "Le savais-tu ? On raconte que Cope aurait voulu que son crâne soit mesuré après sa mort pour prouver que son cerveau était plus gros que celui de Marsh, qui n'aurait pas relevé le défi. L'histoire est célèbre, mais rien ne prouve qu'elle soit vraie.",
+      "q": "Pourquoi la rivalité entre Cope et Marsh a-t-elle été surnommée la « guerre des os » ?",
+      "a": "Parce que les deux paléontologues se sont disputé les fossiles de l'Ouest américain par tous les moyens : espionnage, débauchage d'ouvriers et même dynamitage de gisements.",
+      "next": "La fin du Jurassique, il y a environ 145 millions d'années : une frontière discrète, que les géologues ont longtemps eu du mal à placer."
     }
   ]
 }
