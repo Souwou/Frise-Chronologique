@@ -493,6 +493,63 @@
       "q": "Pourquoi la rivalité entre Cope et Marsh a-t-elle été surnommée la « guerre des os » ?",
       "a": "Parce que les deux paléontologues se sont disputé les fossiles de l'Ouest américain par tous les moyens : espionnage, débauchage d'ouvriers et même dynamitage de gisements.",
       "next": "La fin du Jurassique, il y a environ 145 millions d'années : une frontière discrète, que les géologues ont longtemps eu du mal à placer."
+    },
+    {
+      "day": 27,
+      "date": "2026-11-01",
+      "period": "jurassique",
+      "ago": 145000000,
+      "when": "Il y a environ 145 millions d'années",
+      "title": "Une frontière introuvable",
+      "place": "Les montagnes du sud-est de la France (Ardèche, Hautes-Alpes) et les falaises calcaires d'Italie",
+      "body": [
+        "Le Trias s'est terminé par une catastrophe. Le Crétacé finira avec un astéroïde. Entre les deux, la fin du Jurassique passe presque inaperçue. Il y a environ 145 millions d'années, aucune grande extinction ne vient tourner la page. Les dinosaures, les ammonites et les plantes changent, mais lentement, par petites touches. Pour les géologues, c'est un casse-tête. Une frontière entre deux périodes se repère d'habitude grâce à un bouleversement visible dans les roches. Ici, rien de tel : la dernière étape du Jurassique, le Tithonien, se fond doucement dans la première du Crétacé, le Berriasien.",
+        "Pour fixer une limite, les spécialistes cherchent un repère valable partout sur la planète. Or, à cette époque, les mers chaudes du sud et les mers froides du nord abritent des animaux très différents : une ammonite typique de l'Europe du Sud est absente de Sibérie. En 2016, un groupe de travail choisit un minuscule organisme du plancton, Calpionella alpina, dont la coquille en forme de vase mesure moins d'un dixième de millimètre. Son apparition en masse dans les roches marines devait servir de signal. En 2019, une falaise de calcaire de Tré Maroua, dans les Hautes-Alpes, est proposée comme lieu de référence.",
+        "Mais en 2020, lors du vote des spécialistes du Crétacé, la proposition n'obtient pas la majorité. Un nouveau groupe de travail est formé en 2021. Il penche plutôt pour un autre repère : une inversion du champ magnétique terrestre, enregistrée dans les roches au même moment partout sur Terre, avec des sites candidats en Italie. Résultat : la limite Jurassique-Crétacé est la dernière frontière entre deux périodes encore sans définition officielle. Même sa date bouge : on dit couramment 145 millions d'années, mais des estimations récentes la placent plutôt vers 143 millions d'années."
+      ],
+      "keep": "La fin du Jurassique, il y a environ 145 millions d'années, ne correspond à aucune grande extinction. Faute de repère net dans les roches, les géologues n'ont toujours pas fixé officiellement cette frontière.",
+      "fact": "Le savais-tu ? Le nom du Berriasien, la première étape du Crétacé, vient de Berrias, un village de l'Ardèche. Et le Tithonien, la dernière du Jurassique, doit son nom à Tithon, l'époux de l'Aurore dans la mythologie grecque : c'est l'étape qui précède « l'aube » du Crétacé.",
+      "q": "Quel minuscule organisme du plancton a d'abord été choisi, en 2016, comme repère du début du Crétacé ?",
+      "a": "Calpionella alpina, un organisme à coquille en forme de vase, dont l'apparition en masse dans les roches devait servir de signal.",
+      "next": "Le Crétacé, la période de la craie : la plus longue de l'histoire des animaux, avec des mers qui envahissent les continents."
+    },
+    {
+      "day": 28,
+      "date": "2026-11-02",
+      "period": "cretace",
+      "ago": 140000000,
+      "when": "De 145 à 66 millions d'années avant aujourd'hui",
+      "title": "Le Crétacé, l'âge de la craie",
+      "place": "Le monde entier, des falaises d'Étretat (Normandie) à celles de Douvres (Angleterre)",
+      "body": [
+        "En 1822, le géologue belge Jean-Baptiste d'Omalius d'Halloy étudie les roches du Bassin parisien. Il remarque une épaisse couche blanche et tendre, la craie, qu'on retrouve de la Champagne à l'Angleterre. Il baptise ces terrains « crétacés », du latin creta, la craie. Le nom est resté pour toute la période, qui commence il y a environ 145 millions d'années et se termine il y a 66 millions d'années. Avec près de 80 millions d'années, le Crétacé est la plus longue de toutes les périodes depuis l'apparition des animaux complexes. Il dure plus longtemps que le temps écoulé depuis sa fin.",
+        "La craie est un drôle de matériau. Au microscope, elle se révèle faite de milliards de minuscules plaques de calcaire, les coccolithes. Elles recouvraient des algues microscopiques qui flottaient dans les mers chaudes. À leur mort, ces plaques tombaient au fond, en une pluie fine et continue, pendant des millions d'années. Il faut beaucoup de temps pour former quelques centimètres de craie. Les falaises d'Étretat, en Normandie, et les falaises blanches de Douvres, en Angleterre, sont ainsi d'anciens fonds marins, accumulés surtout pendant la seconde moitié du Crétacé.",
+        "Si autant de craie s'est déposée sur ce qui est aujourd'hui la terre ferme, c'est que la mer était partout. Le climat est chaud, il n'y a presque pas de glace aux pôles, et le niveau des océans monte très haut : selon les estimations, de 100 à plus de 200 mètres au-dessus du niveau actuel à son maximum. Une grande partie de l'Europe est sous l'eau. Pendant ce temps, les continents continuent de se séparer. L'Amérique du Sud s'éloigne de l'Afrique, et l'Atlantique Sud s'ouvre peu à peu."
+      ],
+      "keep": "Le Crétacé, de 145 à 66 millions d'années, doit son nom à la craie. Cette roche est faite des minuscules plaques calcaires d'algues marines, déposées quand les mers recouvraient une grande partie des continents.",
+      "fact": "Le savais-tu ? La craie des tableaux d'école est souvent fabriquée aujourd'hui en plâtre, mais la vraie craie naturelle, celle des falaises, est bien faite de squelettes d'algues microscopiques du Crétacé.",
+      "q": "De quoi est principalement constituée la craie des falaises d'Étretat ?",
+      "a": "De milliards de minuscules plaques de calcaire, les coccolithes, qui recouvraient des algues microscopiques vivant dans les mers du Crétacé.",
+      "next": "Les iguanodons de Bernissart : en 1878, des mineurs belges tombent sur un troupeau entier de dinosaures à plus de 300 mètres sous terre."
+    },
+    {
+      "day": 29,
+      "date": "2026-11-03",
+      "period": "cretace",
+      "ago": 125000000,
+      "when": "Il y a environ 125 millions d'années (découverte en 1878)",
+      "title": "Les iguanodons de Bernissart",
+      "place": "La mine de charbon Sainte-Barbe à Bernissart (Hainaut, Belgique)",
+      "body": [
+        "Fin mars 1878, dans la mine de charbon Sainte-Barbe, à Bernissart, en Belgique, des mineurs creusent une galerie à 322 mètres sous terre. Soudain, ils tombent sur une poche d'argile remplie de morceaux qu'ils prennent pour du bois fossile. Ce sont des os. Le 12 avril, le musée des Sciences naturelles de Bruxelles est prévenu par télégramme. Pendant trois ans, de 1878 à 1881, des équipes dégagent les fossiles dans la chaleur et l'obscurité de la mine. Le résultat dépasse tout ce qu'on imaginait : une trentaine de squelettes d'iguanodons, souvent presque complets.",
+        "L'iguanodon était déjà connu, mais très mal. En Angleterre, dans le Sussex, le médecin Gideon Mantell avait trouvé quelques dents au début des années 1820. Elles ressemblaient à celles d'un iguane, en beaucoup plus grand. D'où le nom d'Iguanodon, donné en 1825. Avec quelques os épars, Mantell l'imaginait comme un énorme lézard à quatre pattes, avec une corne sur le nez. À Bernissart, on comprend enfin à quoi ressemble l'animal : un herbivore de plusieurs tonnes, long de 7 mètres ou plus, avec un bec pour arracher les plantes et des rangées de dents pour les broyer.",
+        "La fameuse « corne » n'était pas sur le nez : c'était le pouce, transformé en une grosse pointe conique, sans doute une arme contre les prédateurs. Le paléontologue Louis Dollo dirige le montage des squelettes à partir de 1882, debout comme des kangourous. On pense aujourd'hui que l'iguanodon marchait surtout à quatre pattes. Ces animaux ont vécu il y a environ 125 millions d'années ; leurs restes se sont accumulés dans une cuvette marécageuse, au-dessus d'un gisement de charbon bien plus ancien. Ils sont exposés à Bruxelles, dans une grande vitrine de verre."
+      ],
+      "keep": "En 1878, des mineurs de Bernissart, en Belgique, découvrent une trentaine de squelettes d'iguanodons à 322 mètres sous terre. Ils révèlent un grand herbivore du Crétacé, dont la « corne » était en fait le pouce.",
+      "fact": "Le savais-tu ? On pense que d'autres squelettes sont encore enfouis sous Bernissart, là où les mineurs ont cessé de creuser. En 2002 et 2003, des forages scientifiques ont de nouveau atteint la couche d'argile à ossements, à plus de 300 mètres de profondeur.",
+      "q": "Où Gideon Mantell avait-il placé la pointe osseuse de l'iguanodon, et où se trouvait-elle vraiment ?",
+      "a": "Mantell l'avait placée sur le nez, comme une corne. Les squelettes de Bernissart ont montré que c'était en fait le pouce de l'animal.",
+      "next": "Les dinosaures à plumes de Chine : dans le Liaoning, des couches de cendres volcaniques ont conservé jusqu'aux plumes d'animaux vieux d'environ 125 millions d'années."
     }
   ]
 }
