@@ -816,6 +816,82 @@
       "q": "D'où vient le nom de Quetzalcoatlus ?",
       "a": "De Quetzalcoatl, le serpent à plumes vénéré par les Aztèques.",
       "next": "Asteriornis, le « poulet des merveilles » : l'un des plus anciens oiseaux modernes connus, trouvé en Belgique, a vécu juste avant l'astéroïde."
+    },
+    {
+      "day": 44,
+      "date": "2026-11-18",
+      "period": "cretace",
+      "ago": 66700000,
+      "when": "Il y a environ 66,7 millions d'années (fossile trouvé en 2000, décrit en 2020)",
+      "title": "Asteriornis, le « poulet des merveilles »",
+      "place": "Une carrière près d'Eben-Emael, en Belgique, à la frontière de Maastricht (Pays-Bas)",
+      "body": [
+        "En 2000, Maarten van Dinther, un chasseur de fossiles amateur, ramasse un petit bloc de roche dans une carrière près du village d'Eben-Emael, en Belgique, juste à côté de Maastricht. On y voit quelques os de patte d'oiseau, rien de spectaculaire. Le bloc est confié au musée d'histoire naturelle de Maastricht, puis, des années plus tard, prêté à une équipe de l'université de Cambridge, en Angleterre. L'équipe du paléontologue Daniel Field le fait passer au scanner à rayons X. Le 18 décembre 2018, la surprise apparaît à l'écran : un crâne d'oiseau presque complet, caché à un millimètre sous la surface.",
+        "Ce crâne a environ 66,7 millions d'années : l'oiseau a vécu à peine 700 000 ans avant la chute de l'astéroïde. En mars 2020, l'équipe le présente dans la revue Nature sous le nom d'Asteriornis maastrichtensis. Les chercheurs le surnomment aussitôt le « wonderchicken », le poulet des merveilles. Son crâne mélange des traits de canard, comme le toit du crâne et l'arrière de la mâchoire, et des traits de poulet, comme la forme du bec. Il appartient au groupe qui réunit aujourd'hui les canards, les oies, les poules et les faisans.",
+        "C'était un petit oiseau d'environ 400 grammes, à peu près le poids d'une perdrix, aux pattes assez longues. Il savait sans doute voler et devait arpenter les rivages. À cette époque, l'Europe était un archipel d'îles baignées par une mer chaude et peu profonde, au climat proche de celui des Bahamas. Asteriornis est l'un des plus anciens oiseaux modernes connus. Il montre que les ancêtres de nos oiseaux actuels existaient déjà avant la catastrophe, et c'est justement cette lignée qui va y survivre, alors que tous les autres dinosaures disparaîtront."
+      ],
+      "keep": "Asteriornis, trouvé en Belgique et décrit en 2020, est l'un des plus anciens oiseaux modernes connus. Il a vécu il y a environ 66,7 millions d'années, juste avant l'astéroïde, et mélangeait des traits de poulet et de canard.",
+      "fact": "Le savais-tu ? Son nom vient d'Astéria, la déesse grecque des étoiles filantes, qui selon la légende se changea en caille : un clin d'œil à l'oiseau et à l'astéroïde qui allait tomber peu après.",
+      "q": "Quels deux groupes d'oiseaux actuels le crâne d'Asteriornis rappelle-t-il ?",
+      "a": "Les canards (toit du crâne, arrière de la mâchoire) et les poules (forme du bec).",
+      "next": "Les trapps du Deccan : en Inde, des éruptions volcaniques gigantesques recouvrent de lave un territoire grand comme la France."
+    },
+    {
+      "day": 45,
+      "date": "2026-11-19",
+      "period": "cretace",
+      "ago": 66300000,
+      "when": "Il y a environ 66,3 à 65,5 millions d'années",
+      "title": "Les trapps du Deccan",
+      "place": "Le plateau du Deccan, dans l'ouest et le centre de l'Inde (Maharashtra)",
+      "body": [
+        "Imagine des collines en marches d'escalier, chaque marche étant une ancienne coulée de lave. C'est le paysage des Ghâts occidentaux, près de Bombay, en Inde. Les géologues appellent ces empilements des « trapps », d'un mot suédois qui veut dire escalier. Ceux du Deccan sont parmi les plus grands du monde. Ils couvrent encore aujourd'hui environ 500 000 kilomètres carrés, presque la surface de la France, et leur épaisseur dépasse 2 000 mètres par endroits. À l'origine, avant l'érosion, ils s'étendaient sans doute sur une surface bien plus vaste.",
+        "Ces laves ne sortent pas d'un volcan en forme de cône. Elles jaillissent de longues fissures dans le sol, en coulées immenses qui peuvent parcourir des centaines de kilomètres. À l'époque, l'Inde est une grande île qui dérive vers le nord, à travers l'océan Indien, au-dessus d'un point chaud : une remontée de roche brûlante venue des profondeurs de la Terre. Selon les datations les plus récentes, les éruptions commencent il y a environ 66,3 millions d'années et se poursuivent par grandes impulsions pendant moins d'un million d'années, au total plus d'un million de kilomètres cubes de lave.",
+        "Ces éruptions rejettent dans l'air d'énormes quantités de gaz carbonique et de soufre. Le climat devient instable : réchauffements, refroidissements, pluies acides. Pendant des décennies, certains géologues, comme Gerta Keller, de l'université de Princeton, ont soutenu que ces volcans avaient tué les dinosaures. Aujourd'hui, la plupart des spécialistes pensent qu'ils ont fragilisé la vie, mais que le coup fatal est venu d'ailleurs. Le débat n'est pas totalement clos, et il est possible que les deux causes se soient ajoutées. Le volcanisme du Deccan rappelle en tout cas celui de la Sibérie qui avait ouvert le Trias."
+      ],
+      "keep": "Les trapps du Deccan, en Inde, sont d'immenses empilements de coulées de lave, épais de plus de 2 000 mètres par endroits. Ces éruptions ont commencé il y a environ 66,3 millions d'années et ont perturbé le climat juste avant l'extinction.",
+      "fact": "Le savais-tu ? Le mot Deccan vient d'un mot sanskrit qui signifie « le sud » : c'est le nom du grand plateau qui occupe le sud de l'Inde.",
+      "q": "D'où vient le mot « trapps » utilisé pour ces empilements de lave ?",
+      "a": "D'un mot suédois qui veut dire escalier, à cause de leur forme en marches.",
+      "next": "L'énigme de l'iridium : en 1980, un père et son fils découvrent dans une couche d'argile en Italie un indice venu de l'espace."
+    },
+    {
+      "day": 46,
+      "date": "2026-11-20",
+      "period": "cretace",
+      "ago": 66000000,
+      "when": "Il y a 66 millions d'années (découverte publiée en 1980)",
+      "title": "L'énigme de l'iridium",
+      "place": "Les gorges de la Bottaccione, près de Gubbio, en Ombrie (Italie)",
+      "body": [
+        "À la fin des années 1970, le géologue américain Walter Alvarez étudie les roches des gorges de la Bottaccione, près de Gubbio, en Italie. Dans la falaise, les couches de calcaire racontent des millions d'années d'histoire. Entre la dernière couche du Crétacé et la première de l'ère suivante, il remarque une fine couche d'argile, épaisse d'environ un centimètre. Sous elle, le calcaire est rempli de minuscules fossiles marins variés ; au-dessus, presque tout a disparu. Combien de temps cette argile a-t-elle mis à se déposer ? Pour le savoir, il demande l'aide de son père, Luis Alvarez, physicien et prix Nobel en 1968.",
+        "Leur idée : mesurer l'iridium, un métal très rare dans la croûte terrestre, mais plus abondant dans les météorites. Une fine poussière venue de l'espace tombe en permanence sur la Terre : plus il y a d'iridium, plus la couche a mis de temps à se former, pensent-ils. Les chimistes Frank Asaro et Helen Michel font les analyses. Le résultat les stupéfie : la couche d'argile de Gubbio contient environ 30 fois plus d'iridium que les roches voisines. Au Danemark, dans les falaises de Stevns Klint, la même couche en contient encore bien plus. Aucune pluie de poussière ordinaire ne peut expliquer cela.",
+        "En juin 1980, dans la revue Science, l'équipe propose une explication audacieuse : un astéroïde d'environ 10 kilomètres de diamètre a percuté la Terre. Sa poussière, riche en iridium, s'est répandue sur toute la planète et a provoqué l'extinction. L'hypothèse fait scandale. Beaucoup de paléontologues la jugent farfelue et reprochent aux physiciens de se mêler de dinosaures. Pourtant, on retrouve ensuite cette couche riche en iridium dans des dizaines de sites à travers le monde. Il manque une seule preuve, et elle est de taille : où est le cratère ?"
+      ],
+      "keep": "En 1980, Luis et Walter Alvarez ont découvert un excès d'iridium dans la fine couche d'argile qui marque la fin du Crétacé. Ils en ont conclu qu'un astéroïde d'environ 10 kilomètres avait frappé la Terre.",
+      "fact": "Le savais-tu ? Dans les années 1960, Luis Alvarez avait déjà utilisé des particules venues de l'espace, les muons, pour chercher des chambres secrètes dans la pyramide de Khéphren, en Égypte. Il n'en trouva aucune.",
+      "q": "Pourquoi l'iridium est-il un indice d'un impact venu de l'espace ?",
+      "a": "Parce que ce métal est très rare dans la croûte terrestre mais plus abondant dans les météorites ; un tel excès dans la couche d'argile suggère l'arrivée d'un gros corps céleste.",
+      "next": "Le cratère de Chicxulub : la trace de l'astéroïde, cachée sous la péninsule du Yucatán, au Mexique."
+    },
+    {
+      "day": 47,
+      "date": "2026-11-21",
+      "period": "cretace",
+      "ago": 66000000,
+      "when": "Il y a 66 millions d'années (cratère identifié en 1991)",
+      "title": "Le cratère de Chicxulub",
+      "place": "La péninsule du Yucatán et le golfe du Mexique (Mexique)",
+      "body": [
+        "En 1978, le géophysicien américain Glen Penfield travaille pour Pemex, la compagnie pétrolière nationale du Mexique. Il survole le golfe du Mexique avec des instruments qui mesurent le champ magnétique du sous-sol, à la recherche de pétrole. Il repère un étrange arc de cercle immense au large du Yucatán. En comparant avec d'anciennes cartes de gravité du sous-sol, son collègue mexicain Antonio Camargo et lui comprennent que l'arc se prolonge sous la terre ferme et forme un cercle presque parfait. En 1981, ils présentent l'idée d'un cratère géant à un congrès. Mais Pemex garde ses données secrètes, et presque personne n'y prête attention.",
+        "Ailleurs, le géologue canadien Alan Hildebrand cherche le cratère des Alvarez. Il trouve à Haïti une couche épaisse de petites billes de verre, des gouttes de roche fondue projetées par un impact, et du quartz « choqué », strié par une pression énorme. Le cratère doit être proche. En 1990, il fait le lien avec les travaux de Penfield. En 1991, ils publient ensemble la découverte du cratère de Chicxulub, du nom d'un village de la côte. Large d'environ 180 kilomètres, il est enfoui sous près d'un kilomètre de sédiments, à moitié sous la mer. Son âge correspond exactement à la fin du Crétacé.",
+        "On estime que l'astéroïde mesurait une dizaine de kilomètres et filait à environ 20 kilomètres par seconde. En une fraction de seconde, il a creusé la croûte terrestre et libéré une énergie équivalente à des milliards de bombes d'Hiroshima. Il est tombé sur des roches riches en soufre et en calcaire, ce qui a aggravé ses effets sur le climat. En 2016, une plateforme a foré le cratère au large du Yucatán et a remonté des carottes de roche broyée, fondue, puis recouverte en quelques jours par des vagues géantes. La plupart des spécialistes y voient la cause principale de l'extinction."
+      ],
+      "keep": "Le cratère de Chicxulub, large d'environ 180 kilomètres et enfoui sous le Yucatán, au Mexique, est la trace de l'astéroïde qui a frappé la Terre il y a 66 millions d'années. Il a été identifié en 1991.",
+      "fact": "Le savais-tu ? À la surface, le cratère est presque invisible, mais il se trahit par un arc de cénotes, des puits naturels remplis d'eau, qui dessinent son bord dans la forêt du Yucatán.",
+      "q": "Qui a repéré le premier, en 1978, les traces du cratère de Chicxulub, et en cherchant quoi ?",
+      "a": "Le géophysicien Glen Penfield, qui cherchait du pétrole pour la compagnie mexicaine Pemex.",
+      "next": "Le jour où le ciel est tombé : les premières heures après l'impact, racontées par un site fossile étonnant du Dakota du Nord, Tanis."
     }
   ]
 }
