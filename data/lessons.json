@@ -892,6 +892,63 @@
       "q": "Qui a repéré le premier, en 1978, les traces du cratère de Chicxulub, et en cherchant quoi ?",
       "a": "Le géophysicien Glen Penfield, qui cherchait du pétrole pour la compagnie mexicaine Pemex.",
       "next": "Le jour où le ciel est tombé : les premières heures après l'impact, racontées par un site fossile étonnant du Dakota du Nord, Tanis."
+    },
+    {
+      "day": 48,
+      "date": "2026-11-22",
+      "period": "cretace",
+      "ago": 66000000,
+      "when": "Il y a 66 millions d'années (site décrit en 2019)",
+      "title": "Tanis, le jour où le ciel est tombé",
+      "place": "Le site de Tanis, dans la formation de Hell Creek, près de Bowman (Dakota du Nord, États-Unis)",
+      "body": [
+        "Dans les plaines sèches du Dakota du Nord, aux États-Unis, affleurent les roches de la formation de Hell Creek. Elles se sont déposées à la toute fin du Crétacé, quand T. rex et Triceratops vivaient encore ici. Au début des années 2010, le paléontologue américain Robert DePalma y fouille un site qu'il baptise Tanis. Il y trouve un étrange enchevêtrement de poissons, de troncs d'arbres et de débris, mélangés en vrac dans une même couche de sable. Ce site se trouve à environ 3 000 kilomètres du cratère de Chicxulub.",
+        "En 2019, son équipe publie son interprétation. Quelques minutes après l'impact, les secousses du séisme géant auraient atteint la région et fait déborder une rivière : l'eau se serait soulevée en une vague de plusieurs mètres, qui a jeté pêle-mêle poissons et plantes sur la rive. Dans le même temps, une pluie de petites billes de verre, des gouttes de roche fondue projetées par l'impact, tombe du ciel. On en retrouve coincées dans les branchies des esturgeons et des poissons-spatules fossilisés. Ces poissons respiraient donc encore quand elles sont tombées.",
+        "Tanis a fait beaucoup parler, et certaines interprétations de DePalma restent discutées par d'autres spécialistes. Mais une partie des résultats a été confirmée. En 2022, une équipe menée par la paléontologue néerlandaise Melanie During a étudié la croissance des os de ces poissons, qui forme des cernes comme ceux des arbres. Conclusion : l'astéroïde est tombé au printemps de l'hémisphère nord. Pour la première fois, on peut raconter la fin des dinosaures presque minute par minute, dans un lieu précis, et même en connaître la saison."
+      ],
+      "keep": "Le site de Tanis, au Dakota du Nord, a conservé des poissons tués dans les minutes qui ont suivi l'impact de Chicxulub, avec des billes de verre dans les branchies. Leurs os indiquent que l'astéroïde est tombé au printemps.",
+      "fact": "Le savais-tu ? Robert DePalma a baptisé le site Tanis en clin d'œil à une ancienne cité égyptienne du même nom, rendue célèbre par le film Les Aventuriers de l'arche perdue.",
+      "q": "Quel indice montre que les poissons de Tanis étaient encore vivants au moment de l'impact ?",
+      "a": "On a retrouvé dans leurs branchies des petites billes de verre tombées du ciel juste après l'impact : ils respiraient donc encore quand elles sont arrivées.",
+      "next": "L'hiver d'impact : des mois de nuit et de froid, et les trois quarts des espèces de la planète qui disparaissent."
+    },
+    {
+      "day": 49,
+      "date": "2026-11-23",
+      "period": "cretace",
+      "ago": 66000000,
+      "when": "Il y a 66 millions d'années",
+      "title": "L'hiver d'impact",
+      "place": "Toute la planète",
+      "body": [
+        "Dans l'heure qui suit l'impact de Chicxulub, une partie des débris projetés jusque dans l'espace retombe sur toute la Terre. En traversant l'atmosphère, ils chauffent l'air comme un four. Selon certains scientifiques, cette chaleur a pu allumer des incendies sur de vastes régions, ce qui est encore discuté. Ce qui est sûr, c'est que l'on trouve de la suie dans la couche de la fin du Crétacé, un peu partout dans le monde. Près du cratère, des vagues géantes, des tsunamis hauts de plusieurs dizaines de mètres, ravagent les côtes du golfe du Mexique.",
+        "Puis vient le pire. Suie, poussière fine et gouttelettes de soufre forment un voile qui entoure la planète et bloque la lumière du Soleil. Pendant des mois, peut-être un à deux ans, il fait sombre et froid. Selon les simulations, la température moyenne à la surface des continents aurait chuté de plus de 10 degrés, peut-être bien davantage. Sans lumière, les plantes et le plancton ne peuvent plus faire de photosynthèse. Toute la chaîne alimentaire s'effondre : les herbivores meurent de faim, puis les carnivores qui les mangeaient.",
+        "Le bilan est terrible : environ trois quarts des espèces animales et végétales disparaissent. Sur la terre ferme, tous les dinosaures non aviens s'éteignent, ainsi que les ptérosaures. Dans les mers, les grands reptiles marins, comme les mosasaures et les plésiosaures, disparaissent aussi, tout comme les ammonites, ces mollusques à coquille spiralée qui peuplaient les océans depuis plus de 300 millions d'années. C'est la cinquième grande extinction de l'histoire de la vie, moins meurtrière que celle de la fin du Permien, mais beaucoup plus brutale : l'essentiel se joue sans doute en quelques années."
+      ],
+      "keep": "Après l'impact, un voile de suie, de poussière et de soufre a plongé la Terre dans la nuit et le froid pendant des mois. La photosynthèse s'est arrêtée, et environ trois quarts des espèces ont disparu, dont tous les dinosaures non aviens.",
+      "fact": "Le savais-tu ? Les ammonites ont survécu à plusieurs extinctions massives avant celle-ci, dont celle de la fin du Permien, la plus grave de toutes. C'est l'impact de Chicxulub qui a fini par en venir à bout.",
+      "q": "Pourquoi l'obscurité qui a suivi l'impact a-t-elle fait s'effondrer toute la chaîne alimentaire ?",
+      "a": "Parce que, sans lumière, les plantes et le plancton ne pouvaient plus faire de photosynthèse ; les herbivores sont morts de faim, puis les carnivores qui les mangeaient.",
+      "next": "Les survivants : petits mammifères, oiseaux, crocodiles et tortues, ceux qui ont traversé la catastrophe, et pourquoi."
+    },
+    {
+      "day": 50,
+      "date": "2026-11-24",
+      "period": "cretace",
+      "ago": 66000000,
+      "when": "Il y a 66 millions d'années",
+      "title": "Les survivants",
+      "place": "Toute la planète, des rivières d'Amérique du Nord aux carrières de Belgique",
+      "body": [
+        "Un quart des espèces environ a survécu à l'impact. Qui sont ces rescapés ? Sur la terre ferme, ce sont surtout de petits animaux. Les spécialistes estiment qu'aucun animal terrestre de plus de 25 kilos environ n'a traversé la catastrophe. Être petit présente de grands avantages : on a besoin de moins de nourriture, on se cache plus facilement dans un terrier ou sous une pierre, et l'on se reproduit vite. Parmi les survivants, on trouve de petits mammifères, mais aussi des lézards, des serpents, des grenouilles et des salamandres.",
+        "Les animaux des rivières et des lacs s'en sortent mieux que les autres. Crocodiles, tortues et poissons d'eau douce survivent en grand nombre. Leur secret : leur nourriture ne dépend pas directement des plantes vivantes. Ils peuvent se contenter de débris, de feuilles mortes et de petites bêtes qui s'en nourrissent. Les crocodiles et les tortues peuvent aussi rester longtemps sans manger. Dans les mers, les requins traversent la crise, même si plusieurs de leurs groupes disparaissent. Sur la terre, les graines et les spores enfouies dans le sol attendent le retour de la lumière.",
+        "Et les dinosaures ? Une seule branche survit : les oiseaux. Pas tous, cependant. Selon une étude de 2018, les oiseaux qui vivaient dans les arbres ont disparu avec les forêts, et seuls quelques groupes vivant au sol, au bec dépourvu de dents, ont pu picorer des graines dans les décombres. C'est d'eux que descendent les quelque 11 000 espèces d'oiseaux actuelles. Ainsi, quand tu regardes un pigeon ou une poule, tu regardes un descendant direct des dinosaures qui ont survécu à l'astéroïde."
+      ],
+      "keep": "Les survivants de l'extinction étaient surtout de petits animaux, ainsi que les espèces d'eau douce comme les crocodiles et les tortues. Parmi les dinosaures, seuls quelques groupes d'oiseaux vivant au sol ont survécu.",
+      "fact": "Le savais-tu ? En 2020, des chercheurs ont décrit Asteriornis, surnommé le « wonderchicken », un petit oiseau d’environ 400 grammes trouvé dans une carrière en Belgique. Il vivait environ 700 000 ans avant l'impact et ressemble à un ancêtre commun des poules et des canards.",
+      "q": "Pourquoi les crocodiles et les tortues ont-ils mieux survécu que la plupart des animaux terrestres ?",
+      "a": "Parce qu'ils vivaient dans les rivières et les lacs, où la nourriture ne dépendait pas directement des plantes vivantes, et qu'ils peuvent rester longtemps sans manger.",
+      "next": "Le monde d'après : le début du Paléogène, quand la vie repart des fougères et que les mammifères commencent à grandir."
     }
   ]
 }
