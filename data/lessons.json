@@ -949,6 +949,82 @@
       "q": "Pourquoi les crocodiles et les tortues ont-ils mieux survécu que la plupart des animaux terrestres ?",
       "a": "Parce qu'ils vivaient dans les rivières et les lacs, où la nourriture ne dépendait pas directement des plantes vivantes, et qu'ils peuvent rester longtemps sans manger.",
       "next": "Le monde d'après : le début du Paléogène, quand la vie repart des fougères et que les mammifères commencent à grandir."
+    },
+    {
+      "day": 51,
+      "date": "2026-11-25",
+      "period": "paleogene",
+      "ago": 65900000,
+      "when": "Il y a 66 à 65 millions d'années (site décrit en 2019)",
+      "title": "Le monde d'après",
+      "place": "Corral Bluffs, près de Colorado Springs (Colorado, États-Unis)",
+      "body": [
+        "Après l'hiver d'impact, la lumière revient peu à peu. Sur les terres dévastées, les premières plantes à repousser sont des fougères. Dans de nombreuses régions du monde, les couches de roche situées juste au-dessus de la limite de l'extinction sont remplies de leurs spores : les géologues parlent de « pic de fougères ». Ces plantes robustes colonisent les sols nus, comme elles le font encore aujourd'hui après une éruption volcanique. Une nouvelle période commence : le Paléogène. Mais pendant longtemps, on a manqué de fossiles pour savoir comment la vie avait repris, année après année.",
+        "La réponse est venue de Corral Bluffs, des collines arides près de Colorado Springs. Pendant des années, les chercheurs n'y trouvaient presque rien en surface. En 2016, le paléontologue américain Tyler Lyson, du musée de Denver, a l'idée de casser les nodules de roche dure, appelés concrétions, qui parsèment le site. À l'intérieur, il découvre des crânes de mammifères parfaitement conservés. En trois ans, l'équipe récolte plus de 7 000 fossiles : au moins 40 crânes de mammifères et des feuilles de 233 sortes de plantes, qui couvrent environ le premier million d'années après l'impact.",
+        "Ces fossiles racontent une remontée étonnamment rapide. Juste après la catastrophe, les plus gros mammifères pèsent environ 500 grammes, la taille d'un rat. Après 100 000 ans, certains atteignent 6 kilos, comme un raton laveur, dans des forêts de palmiers. Après 300 000 ans, Carsioptychus, gros comme un castor, pèse 25 à 30 kilos. Après 700 000 ans, Eoconodon, de la taille d'un loup, approche les 50 kilos. C'est aussi le moment où apparaissent les premières légumineuses connues, la famille des haricots. En moins d'un million d'années, les mammifères ont centuplé de taille."
+      ],
+      "keep": "Après l'impact, les fougères ont recolonisé la Terre en premier. À Corral Bluffs, au Colorado, des fossiles montrent qu'en 700 000 ans les plus gros mammifères sont passés de la taille d'un rat à celle d'un loup.",
+      "fact": "Le savais-tu ? À Corral Bluffs, les fossiles étaient cachés à l'intérieur de simples cailloux arrondis que les chercheurs piétinaient depuis des années sans se douter de rien.",
+      "q": "Combien pesaient environ les plus gros mammifères de Corral Bluffs juste après l'impact, puis 700 000 ans plus tard ?",
+      "a": "Environ 500 grammes juste après l'impact, la taille d'un rat, puis près de 50 kilos 700 000 ans plus tard, avec Eoconodon, de la taille d'un loup.",
+      "next": "Titanoboa : un serpent de 13 mètres dans la forêt tropicale de la Colombie, il y a 60 millions d'années."
+    },
+    {
+      "day": 52,
+      "date": "2026-11-26",
+      "period": "paleogene",
+      "ago": 60000000,
+      "when": "Il y a environ 60 millions d'années (décrit en 2009)",
+      "title": "Titanoboa, le serpent géant",
+      "place": "La mine de charbon de Cerrejón, dans le nord de la Colombie",
+      "body": [
+        "Dans le nord de la Colombie, près de la frontière avec le Venezuela, s'étend Cerrejón, l'une des plus grandes mines de charbon à ciel ouvert du monde. Ce charbon, ce sont les restes d'une forêt tropicale marécageuse vieille d'environ 60 millions d'années. En creusant, les machines mettent au jour les roches qui se sont déposées dans cette forêt. Au début des années 2000, des équipes menées par le géologue Carlos Jaramillo, de l'Institut Smithsonian de recherches tropicales, et le paléontologue américain Jonathan Bloch, de l'université de Floride, y découvrent des vertèbres de serpent d'une taille jamais vue.",
+        "En 2009, dans la revue Nature, ils décrivent l'animal et le baptisent Titanoboa cerrejonensis, le « boa titanesque de Cerrejón ». D'après la taille des vertèbres, ce cousin des boas et des anacondas mesurait environ 13 mètres de long, une estimation jugée prudente, et pesait environ 1 140 kilos, plus d'une tonne. C'est le plus grand serpent connu de toute l'histoire. Comme les boas actuels, il n'était pas venimeux : il étouffait ses proies. Il vivait sans doute surtout dans l'eau des rivières et des marais, où il chassait probablement de gros poissons et peut-être des crocodiles.",
+        "Titanoboa dit aussi quelque chose du climat. Un serpent ne produit pas sa propre chaleur : sa taille maximale dépend de la température qui l'entoure. Le paléontologue Jason Head, de l'université de Toronto, a calculé qu'un serpent aussi gigantesque avait besoin d'une température moyenne de 30 à 34 degrés toute l'année. La forêt de Cerrejón était donc nettement plus chaude que les forêts tropicales actuelles. Dix millions d'années seulement après la fin des dinosaures, la Terre était une serre, et les grands prédateurs n'étaient pas toujours des mammifères."
+      ],
+      "keep": "Titanoboa, découvert dans une mine de charbon en Colombie et décrit en 2009, mesurait environ 13 mètres et pesait plus d'une tonne. C'est le plus grand serpent connu. Sa taille montre que la forêt tropicale était alors plus chaude qu'aujourd'hui.",
+      "fact": "Le savais-tu ? Les plus longs serpents vivants, les pythons réticulés d'Asie du Sud-Est, dépassent rarement 6 à 7 mètres : Titanoboa était environ deux fois plus long.",
+      "q": "Pourquoi la taille de Titanoboa renseigne-t-elle sur le climat de son époque ?",
+      "a": "Parce qu'un serpent ne produit pas sa propre chaleur : un serpent aussi grand avait besoin d'une température moyenne de 30 à 34 degrés toute l'année.",
+      "next": "Le grand coup de chaud d'il y a 56 millions d'années : quand la Terre s'est réchauffée brutalement, et que les chevaux ont rapetissé."
+    },
+    {
+      "day": 53,
+      "date": "2026-11-27",
+      "period": "paleogene",
+      "ago": 56000000,
+      "when": "Il y a environ 56 millions d'années",
+      "title": "Le grand coup de chaud",
+      "place": "Toute la planète, et en particulier le bassin du Bighorn (Wyoming, États-Unis)",
+      "body": [
+        "Il y a environ 56 millions d'années, la Terre, déjà chaude, connaît un réchauffement brutal. Les géologues l'appellent le maximum thermique du passage Paléocène-Éocène, abrégé PETM en anglais. En quelques milliers d'années, des milliers de milliards de tonnes de carbone sont libérées dans l'océan et l'atmosphère. Leur origine exacte est encore débattue : volcanisme dans l'Atlantique Nord, qui commence alors à s'ouvrir entre le Groenland et l'Europe, dégel de réserves de méthane sous les océans, ou les deux. La température moyenne de la planète grimpe d'environ 5 à 8 degrés.",
+        "Les conséquences sont spectaculaires. L'océan, qui absorbe une partie du carbone, devient plus acide, et de nombreux petits organismes marins à coquille disparaissent des fonds. Sur la terre ferme, les zones climatiques se déplacent : des palmiers poussent près des pôles, et des crocodiliens vivent dans l'Arctique. Les animaux se déplacent avec elles. C'est à ce moment que trois groupes de mammifères apparaissent brusquement en Amérique du Nord, en Europe et en Asie : les primates proches des nôtres, les ancêtres des chevaux et ceux des vaches, cerfs et cochons.",
+        "Dans le bassin du Bighorn, au Wyoming, les fossiles racontent l'histoire d'un des premiers chevaux, Sifrhippus. En 2012, une équipe de l'université de Floride a mesuré ses dents couche après couche. Au début du réchauffement, il pèse environ 5,4 kilos. Pendant les quelque 130 000 ans de chaleur, il rapetisse d'environ 30 % et tombe vers 4 kilos, la taille d'un chat. Quand le climat se rafraîchit, il remonte à près de 7 kilos. Le PETM dure en tout environ 175 000 ans. Les scientifiques l'étudient de près, car il ressemble au réchauffement actuel, en plus lent."
+      ],
+      "keep": "Il y a environ 56 millions d'années, une énorme libération de carbone a réchauffé la Terre de 5 à 8 degrés environ pendant quelque 175 000 ans. Les premiers primates, chevaux et ruminants se sont alors répandus, et certains mammifères ont rapetissé.",
+      "fact": "Le savais-tu ? Le cheval Sifrhippus, qui vivait il y a 56 millions d'années, pesait à peine 4 kilos au plus chaud du réchauffement, soit à peu près le poids d'un chat domestique.",
+      "q": "Qu'est-il arrivé à la taille du petit cheval Sifrhippus pendant le réchauffement d'il y a 56 millions d'années ?",
+      "a": "Il a rapetissé d'environ 30 %, passant d'environ 5,4 kilos à environ 4 kilos, puis il a regrandi quand le climat s'est rafraîchi.",
+      "next": "Pakicetus : l'ancêtre des baleines marchait sur quatre pattes, au bord des rivières du Pakistan."
+    },
+    {
+      "day": 54,
+      "date": "2026-11-28",
+      "period": "paleogene",
+      "ago": 50000000,
+      "when": "Il y a environ 50 millions d'années (nommé en 1981)",
+      "title": "Pakicetus, la baleine qui marchait",
+      "place": "Les collines du nord du Pakistan, alors au bord de la mer Téthys",
+      "body": [
+        "Les baleines sont des mammifères : elles respirent de l'air, allaitent leurs petits et ont le sang chaud. Leurs ancêtres vivaient donc sur la terre ferme. Mais lesquels ? À la fin des années 1970, le paléontologue américain Philip Gingerich, de l'université du Michigan, fouille des roches vieilles d'environ 50 millions d'années dans le nord du Pakistan. À cette époque, l'Inde est un continent séparé qui remonte vers l'Asie, et un bras de mer chaude, la Téthys, s'étend entre les deux. Gingerich y trouve un crâne incomplet, celui d'un animal de la taille d'un loup.",
+        "En 1981, il le baptise Pakicetus, la « baleine du Pakistan ». Ce crâne n'a rien d'une baleine au premier regard. Mais l'os qui entoure l'oreille porte un épaississement très particulier, que l'on ne trouve que chez les cétacés, le groupe des baleines et des dauphins. Pakicetus est donc l'un des plus anciens membres connus de cette famille. Au début, on l'imagine vivant à moitié dans l'eau. Puis, en 2001, l'équipe de l'Américain Hans Thewissen publie des squelettes plus complets : Pakicetus avait de longues pattes fines, faites pour courir sur la terre ferme.",
+        "Ses chevilles réservent une autre surprise : elles ont la même forme que celles des artiodactyles, le groupe des cochons, des vaches et des hippopotames. Les baleines sont donc des cousines de ces animaux à sabots, et l'hippopotame est aujourd'hui leur plus proche parent vivant. Pakicetus vivait sans doute au bord des rivières et des mares, où il chassait le poisson à l'affût, peut-être en pataugeant. En une dizaine de millions d'années, ses cousins vont se lancer dans la mer, perdre leurs pattes arrière et devenir les premières vraies baleines."
+      ],
+      "keep": "Pakicetus, découvert au Pakistan et nommé en 1981, est l'un des plus anciens cétacés connus. Il vivait il y a environ 50 millions d'années, marchait sur quatre pattes et ressemblait à un loup. Les baleines sont cousines des hippopotames.",
+      "fact": "Le savais-tu ? Le plus proche parent vivant des baleines et des dauphins est l'hippopotame, qui passe d'ailleurs ses journées dans l'eau.",
+      "q": "Quel détail du crâne de Pakicetus a permis de le rattacher à la famille des baleines ?",
+      "a": "L'os qui entoure son oreille, qui porte un épaississement particulier qu'on ne trouve que chez les cétacés.",
+      "next": "Le lac de Messel, en Allemagne : une fenêtre exceptionnelle sur une forêt d'il y a 47 millions d'années, avec ses chevaux nains et ses primates."
     }
   ]
 }
