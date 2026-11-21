@@ -1025,6 +1025,63 @@
       "q": "Quel détail du crâne de Pakicetus a permis de le rattacher à la famille des baleines ?",
       "a": "L'os qui entoure son oreille, qui porte un épaississement particulier qu'on ne trouve que chez les cétacés.",
       "next": "Le lac de Messel, en Allemagne : une fenêtre exceptionnelle sur une forêt d'il y a 47 millions d'années, avec ses chevaux nains et ses primates."
+    },
+    {
+      "day": 55,
+      "date": "2026-11-29",
+      "period": "paleogene",
+      "ago": 47000000,
+      "when": "Il y a environ 47 millions d'années (site protégé par l'UNESCO depuis 1995)",
+      "title": "Messel, la forêt figée dans un lac",
+      "place": "La fosse de Messel, près de Darmstadt, dans la Hesse (Allemagne)",
+      "body": [
+        "Il y a environ 47 millions d'années, l'Europe est couverte de forêts tropicales chaudes et humides. Près de l'actuelle Darmstadt, une explosion volcanique a creusé un cratère d'environ un kilomètre et demi de large, qui s'est rempli d'eau. Ce lac est profond, et son fond manque d'oxygène : rien n'y vit, rien n'y pourrit. Les animaux qui y tombent, noyés, emportés par une rivière ou peut-être asphyxiés par des gaz volcaniques, coulent dans une boue fine qui les recouvre doucement. Couche après couche, cette boue devient une roche feuilletée et sombre, chargée d'huile : un schiste bitumineux.",
+        "Au XIXe siècle, on exploite ce schiste pour en tirer du pétrole. Les mineurs trouvent des fossiles, mais l'extraction s'arrête en 1971 et le trou géant manque de devenir une décharge d'ordures. Paléontologues et habitants protestent pendant des années ; le projet est abandonné, la région de Hesse rachète le site en 1991, et l'UNESCO l'inscrit au patrimoine mondial en 1995. Car Messel est un trésor : on y trouve des squelettes entiers, avec la silhouette du pelage, des plumes, et parfois le dernier repas encore dans l'estomac. Des scarabées y ont même gardé leurs couleurs métalliques.",
+        "Parmi les vedettes, il y a Eurohippus, un cheval de la taille d'un renard, avec plusieurs doigts à chaque patte, qui broutait des feuilles et non de l'herbe. En 2015, des chercheurs ont décrit une jument de Messel morte en portant un poulain, si bien conservé qu'on devine le placenta. Il y a aussi Ida, un petit primate trouvé en 1983 par un collectionneur et présenté au monde en 2009 : son squelette est complet à environ 95 %. On y croise encore des chauves-souris avec des restes de papillons de nuit dans le ventre, des crocodiles, des tortues et des fourmis géantes."
+      ],
+      "keep": "La fosse de Messel, en Allemagne, est un ancien lac volcanique où se sont fossilisés, il y a environ 47 millions d'années, des animaux entiers avec leur peau, leurs plumes et leur dernier repas. On y trouve de petits chevaux de la taille d'un renard et des primates.",
+      "fact": "Le savais-tu ? Le site de Messel, aujourd'hui classé par l'UNESCO, a failli être transformé en décharge d'ordures dans les années 1970 et 1980.",
+      "q": "Pourquoi les animaux tombés dans le lac de Messel se sont-ils si bien conservés ?",
+      "a": "Parce que le fond du lac manquait d'oxygène : rien n'y vivait pour les décomposer, et une boue fine les a recouverts avant de devenir de la roche.",
+      "next": "Le retour des baleines : en Égypte, la « vallée des Baleines » garde les squelettes de Basilosaurus, un géant marin qui avait encore de minuscules pattes arrière."
+    },
+    {
+      "day": 56,
+      "date": "2026-11-30",
+      "period": "paleogene",
+      "ago": 40000000,
+      "when": "Il y a environ 40 à 37 millions d'années",
+      "title": "Basilosaurus et la vallée des Baleines",
+      "place": "Ouadi al-Hitan, la « vallée des Baleines », dans le désert à l'ouest du Caire (Égypte)",
+      "body": [
+        "Souviens-toi de Pakicetus, le cousin des baleines qui courait sur la terre ferme il y a environ 50 millions d'années. Dix millions d'années plus tard, ses descendants ont conquis la mer. Le meilleur endroit pour le voir est aujourd'hui un désert : Ouadi al-Hitan, en Égypte, à environ 150 kilomètres au sud-ouest du Caire. Il y a 40 millions d'années, c'était le fond d'une mer chaude et peu profonde, un bras de la Téthys. Le vent du désert y a dégagé des centaines de squelettes de baleines anciennes, couchés dans le sable. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 2005.",
+        "La star s'appelle Basilosaurus. Long d'environ 15 à 18 mètres, il avait un corps très allongé, presque comme une anguille géante, et une mâchoire hérissée de grandes dents. Son nom signifie « roi des lézards » : en 1834, l'Américain Richard Harlan, qui avait étudié des os trouvés en Louisiane, l'avait pris pour un reptile marin. Quelques années plus tard, le Britannique Richard Owen montra, grâce à ses dents, qu'il s'agissait d'un mammifère. Mais le nom était déjà donné, et les règles de la science interdisent de le changer.",
+        "En 1990, l'équipe de Philip Gingerich, le découvreur de Pakicetus, a décrit en Égypte les pattes arrière de Basilosaurus. Elles existaient encore, avec genou, cheville et petits doigts, mais minuscules par rapport au corps : elles ne pouvaient ni le porter ni l'aider à nager. Elles servaient peut-être à s'agripper pendant l'accouplement. En 2019, des chercheurs ont décrit le contenu de l'estomac d'un Basilosaurus : des poissons et des restes de jeunes Dorudon, une baleine plus petite. Ce géant était le grand prédateur de ces mers."
+      ],
+      "keep": "Basilosaurus, une baleine ancienne de 15 à 18 mètres, vivait il y a environ 40 millions d'années. Il gardait de minuscules pattes arrière, devenues inutiles pour marcher. Ses squelettes abondent à Ouadi al-Hitan, en Égypte.",
+      "fact": "Le savais-tu ? Basilosaurus veut dire « roi des lézards » : son découvreur l'avait pris pour un reptile, et ce nom trompeur n'a jamais pu être changé.",
+      "q": "Pourquoi Basilosaurus porte-t-il un nom qui signifie « roi des lézards » ?",
+      "a": "Parce que Richard Harlan, qui l'a nommé en 1834, l'a pris pour un reptile marin ; on a compris ensuite que c'était un mammifère, mais le nom est resté.",
+      "next": "Il y a 34 millions d'années, la Terre se refroidit brutalement, l'Antarctique se couvre de glace et la faune d'Europe est bouleversée : c'est la « Grande Coupure »."
+    },
+    {
+      "day": 57,
+      "date": "2026-12-01",
+      "period": "paleogene",
+      "ago": 34000000,
+      "when": "Il y a environ 34 millions d'années (nommée en 1910)",
+      "title": "La Grande Coupure",
+      "place": "L'Antarctique, qui se couvre de glace, et l'Europe occidentale, de Paris au Quercy",
+      "body": [
+        "Depuis le grand coup de chaud d'il y a 56 millions d'années, la Terre se refroidit lentement. Puis, il y a environ 34 millions d'années, tout s'accélère. L'Antarctique, longtemps couvert de forêts, se retrouve isolé au pôle Sud : des passages marins s'ouvrent entre lui et l'Australie, puis l'Amérique du Sud, et un courant froid se met à tourner autour du continent. En parallèle, le taux de gaz carbonique dans l'air baisse. En quelques centaines de milliers d'années à peine, un temps très court à l'échelle géologique, une immense calotte de glace recouvre l'Antarctique. Elle y est toujours.",
+        "L'eau prisonnière de la glace fait baisser le niveau des mers de plusieurs dizaines de mètres. Or l'Europe de l'époque est presque une île : une mer peu profonde, le détroit de Tourgaï, la sépare de l'Asie. Quand cette mer s'assèche, un pont de terre s'ouvre. Des animaux venus d'Asie, comme des rhinocéros, des ancêtres des hamsters et des castors, envahissent l'Europe. En même temps, le climat devient plus frais et plus sec, et les forêts tropicales reculent. Une grande partie des mammifères européens disparaît : selon les estimations, plus de la moitié des genres.",
+        "C'est le paléontologue suisse Hans Georg Stehlin qui a remarqué ce bouleversement, en 1910, en comparant des fossiles de Suisse et de France. Il l'a appelé la « Grande Coupure », et le nom français est resté dans toutes les langues. Parmi les disparus, il y a Palaeotherium, un mammifère qui ressemblait à un tapir. Le naturaliste Georges Cuvier l'avait décrit vers 1804 à partir d'os trouvés dans les carrières de gypse de Montmartre, à Paris. Avec la Grande Coupure, on passe de l'Éocène à l'Oligocène, la dernière époque du Paléogène."
+      ],
+      "keep": "Il y a environ 34 millions d'années, l'Antarctique se couvre de glace et la Terre se refroidit. En Europe, des animaux venus d'Asie remplacent une grande partie des mammifères locaux : c'est la Grande Coupure, nommée par Hans Georg Stehlin en 1910.",
+      "fact": "Le savais-tu ? La calotte glaciaire de l'Antarctique, qui existe toujours, s'est formée il y a environ 34 millions d'années, alors que ce continent était auparavant couvert de forêts.",
+      "q": "Comment des animaux venus d'Asie ont-ils pu entrer en Europe au moment de la Grande Coupure ?",
+      "a": "La formation de la glace en Antarctique a fait baisser le niveau des mers ; le détroit de Tourgaï, qui séparait l'Europe de l'Asie, s'est asséché et a ouvert un pont de terre.",
+      "next": "Paraceratherium, un rhinocéros sans corne haut de près de 5 mètres au garrot : le plus grand mammifère terrestre de tous les temps."
     }
   ]
 }
